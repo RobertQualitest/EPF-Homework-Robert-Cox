@@ -1,0 +1,3 @@
+﻿2016-06-03 16:41:42.042 +0100	START		Running Todo.script
+2016-06-03 16:41:42.042 +0100	EndTestCase		(Duration:"0.002", Errors:"0", Exceptions:"0", StartTime:"2016-06-03 16:41:42 +0100", Successes:"1", TestCase:"Todo.script", Warnings:"0")
+2016-06-03 16:41:42.042 +0100	SUCCESS		Execution Time 0:00:00 Todo.script

@@ -1,0 +1,44 @@
+﻿put file "C:\Users\robert.cox\Documents\csv\list.csv" into datafile
+
+repeat with each line data in dataFile
+	(*if repeatIndex()>1*)
+	
+	
+	put the first item of data into list
+	put the second item of data into todo
+	
+	put"" into subtask
+	if the third item of data is not empty
+		put the third item of data into subtask
+	end if
+	
+	
+	//This will check if list already exists
+	if ImageFound(2.0, (text:list)) is true
+		Click (TEXT:list)
+	else 
+		
+		List.create list
+		
+	end if
+	//Checks if the todo has been created
+	if ImageFound(1.0, (TEXT: todo)) is false
+		Todo.create todo
+	end if
+	
+	//double click to do only if we have a subtask
+	if subtask is not empty 
+		DoubleClick (TEXT:todo, searchrectangle:("TopLeft", "BottomRight"))
+		
+		WaitFor 8.0, ("sub2/sub")
+		
+		Click"sub2/sub"
+		Log subtask
+		Typetext subtask, return
+		waitfor 8.0, (TEXT:subtask)
+		Click"closeView_new"
+		WaitFor 4.0, "BottomRight"
+	end if
+end repeat
+
+

@@ -1,0 +1,75 @@
+﻿2016-06-03 18:10:18.018 +0100	START		Running csv.script
+2016-06-03 18:10:20.020 +0100	imagefound	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(346,46), ImageRectangle:(293,38,399,55), Language:"English", text:"Things to do", TextPlatform:"Generic OCR")	found at (346, 46)	17	on_csv	csv.script
+2016-06-03 18:10:23.023 +0100	click	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(346,46), ImageRectangle:(293,38,399,55), Language:"English", TEXT:"Things to do", TextPlatform:"Generic OCR")	at (346, 46)	18	on_csv	csv.script
+2016-06-03 18:10:26.026 +0100	imagefound	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(364,260), ImageRectangle:(334,253,394,267), Language:"English", TEXT:"Shopping", TextPlatform:"Generic OCR")	found at (364, 260)	25	on_csv	csv.script
+2016-06-03 18:10:26.026 +0100	doubleclick	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(364,260), ImageRectangle:(334,253,394,267), Language:"English", searchrectangle:(306,137,567,643), TEXT:"Shopping", TextPlatform:"Generic OCR")	at (364, 260)	31	on_csv	csv.script
+2016-06-03 18:10:27.027 +0100	waitfor	sub2/sub	found at (921, 202)	33	on_csv	csv.script
+2016-06-03 18:10:28.028 +0100	click	sub2/sub	at (921, 202)	35	on_csv	csv.script
+2016-06-03 18:10:28.028 +0100	Log		Milk	36	on_csv	csv.script
+2016-06-03 18:10:28.028 +0100	typetext		Milk[return]	37	on_csv	csv.script
+2016-06-03 18:10:33.033 +0100	waitfor	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(721,197), ImageRectangle:(707,192,735,203), Language:"English", TEXT:"Milk", TextPlatform:"Generic OCR")	found at (721, 197)	38	on_csv	csv.script
+2016-06-03 18:10:33.033 +0100	click	closeView_new	at (673, 707)	39	on_csv	csv.script
+2016-06-03 18:10:33.033 +0100	waitfor	BottomRight	found at (567, 643)	40	on_csv	csv.script
+2016-06-03 18:10:35.035 +0100	imagefound	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(346,46), ImageRectangle:(293,38,399,55), Language:"English", text:"Things to do", TextPlatform:"Generic OCR")	found at (346, 46)	17	on_csv	csv.script
+2016-06-03 18:10:38.038 +0100	click	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(346,46), ImageRectangle:(293,38,399,55), Language:"English", TEXT:"Things to do", TextPlatform:"Generic OCR")	at (346, 46)	18	on_csv	csv.script
+2016-06-03 18:10:41.041 +0100	imagefound	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(364,260), ImageRectangle:(334,253,394,267), Language:"English", TEXT:"Shopping", TextPlatform:"Generic OCR")	found at (364, 260)	25	on_csv	csv.script
+2016-06-03 18:10:42.042 +0100	doubleclick	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(364,260), ImageRectangle:(334,253,394,267), Language:"English", searchrectangle:(306,137,567,643), TEXT:"Shopping", TextPlatform:"Generic OCR")	at (364, 260)	31	on_csv	csv.script
+2016-06-03 18:10:42.042 +0100	waitfor	sub2/sub	found at (950, 298)	33	on_csv	csv.script
+2016-06-03 18:10:43.043 +0100	click	sub2/sub	at (761, 298)	35	on_csv	csv.script
+2016-06-03 18:10:43.043 +0100	Log		Eggs	36	on_csv	csv.script
+2016-06-03 18:10:44.044 +0100	typetext		Eggs[return]	37	on_csv	csv.script
+2016-06-03 18:10:48.048 +0100	waitfor	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(721,231), ImageRectangle:(707,224,736,238), Language:"English", TEXT:"Eggs", TextPlatform:"Generic OCR")	found at (721, 231)	38	on_csv	csv.script
+2016-06-03 18:10:48.048 +0100	click	closeView_new	at (673, 707)	39	on_csv	csv.script
+2016-06-03 18:10:48.048 +0100	waitfor	BottomRight	found at (567, 643)	40	on_csv	csv.script
+2016-06-03 18:10:51.051 +0100	imagefound	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(346,46), ImageRectangle:(293,38,399,55), Language:"English", text:"Things to do", TextPlatform:"Generic OCR")	found at (346, 46)	17	on_csv	csv.script
+2016-06-03 18:10:52.052 +0100	click	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(468,12), ImageRectangle:(427,5,509,19), Language:"English", TEXT:"Things to do", TextPlatform:"Generic OCR")	at (468, 12)	18	on_csv	csv.script
+2016-06-03 18:10:55.055 +0100	imagefound	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(364,260), ImageRectangle:(334,253,394,267), Language:"English", TEXT:"Shopping", TextPlatform:"Generic OCR")	found at (364, 260)	25	on_csv	csv.script
+2016-06-03 18:10:55.055 +0100	doubleclick	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(364,260), ImageRectangle:(334,253,394,267), Language:"English", searchrectangle:(306,137,567,643), TEXT:"Shopping", TextPlatform:"Generic OCR")	at (364, 260)	31	on_csv	csv.script
+2016-06-03 18:10:56.056 +0100	waitfor	sub2/sub	found at (859, 330)	33	on_csv	csv.script
+2016-06-03 18:10:56.056 +0100	click	sub2/sub	at (859, 330)	35	on_csv	csv.script
+2016-06-03 18:10:56.056 +0100	Log		Butter	36	on_csv	csv.script
+2016-06-03 18:10:57.057 +0100	typetext		Butter[return]	37	on_csv	csv.script
+2016-06-03 18:11:00.000 +0100	waitfor	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(742,261), ImageRectangle:(721,256,763,267), Language:"English", TEXT:"Butter", TextPlatform:"Generic OCR")	found at (742, 261)	38	on_csv	csv.script
+2016-06-03 18:11:00.000 +0100	click	closeView_new	at (673, 707)	39	on_csv	csv.script
+2016-06-03 18:11:00.000 +0100	waitfor	BottomRight	found at (567, 643)	40	on_csv	csv.script
+2016-06-03 18:11:02.002 +0100	imagefound	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(79,633), ImageRectangle:(39,626,119,640), Language:"English", text:"Things to do", TextPlatform:"Generic OCR")	found at (79, 633)	17	on_csv	csv.script
+2016-06-03 18:11:04.004 +0100	click	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(346,46), ImageRectangle:(293,38,399,55), Language:"English", TEXT:"Things to do", TextPlatform:"Generic OCR")	at (346, 46)	18	on_csv	csv.script
+2016-06-03 18:11:07.007 +0100	imagefound	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(372,213), ImageRectangle:(335,206,409,220), Language:"English", TEXT:"Pick up kids", TextPlatform:"Generic OCR")	found at (372, 213)	25	on_csv	csv.script
+2016-06-03 18:11:09.009 +0100	imagefound	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(346,46), ImageRectangle:(293,38,399,55), Language:"English", text:"Things to do", TextPlatform:"Generic OCR")	found at (346, 46)	17	on_csv	csv.script
+2016-06-03 18:11:11.011 +0100	click	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(346,46), ImageRectangle:(293,38,399,55), Language:"English", TEXT:"Things to do", TextPlatform:"Generic OCR")	at (346, 46)	18	on_csv	csv.script
+2016-06-03 18:11:15.015 +0100	imagefound	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(362,166), ImageRectangle:(334,159,390,173), Language:"English", TEXT:"Cleaning", TextPlatform:"Generic OCR")	found at (362, 166)	25	on_csv	csv.script
+2016-06-03 18:11:15.015 +0100	doubleclick	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(362,166), ImageRectangle:(334,159,390,173), Language:"English", searchrectangle:(306,137,567,643), TEXT:"Cleaning", TextPlatform:"Generic OCR")	at (362, 166)	31	on_csv	csv.script
+2016-06-03 18:11:16.016 +0100	waitfor	sub2/sub	found at (761, 202)	33	on_csv	csv.script
+2016-06-03 18:11:16.016 +0100	click	sub2/sub	at (761, 202)	35	on_csv	csv.script
+2016-06-03 18:11:16.016 +0100	Log		Hoover	36	on_csv	csv.script
+2016-06-03 18:11:17.017 +0100	typetext		Hoover[return]	37	on_csv	csv.script
+2016-06-03 18:11:25.025 +0100	waitfor	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(731,197), ImageRectangle:(707,192,755,203), Language:"English", TEXT:"Hoover", TextPlatform:"Generic OCR")	found at (731, 197)	38	on_csv	csv.script
+2016-06-03 18:11:25.025 +0100	click	closeView_new	at (673, 707)	39	on_csv	csv.script
+2016-06-03 18:11:25.025 +0100	waitfor	BottomRight	found at (567, 643)	40	on_csv	csv.script
+2016-06-03 18:11:26.026 +0100	imagefound	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(346,46), ImageRectangle:(293,38,399,55), Language:"English", text:"Things to do", TextPlatform:"Generic OCR")	found at (346, 46)	17	on_csv	csv.script
+2016-06-03 18:11:28.028 +0100	click	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(468,12), ImageRectangle:(427,5,509,19), Language:"English", TEXT:"Things to do", TextPlatform:"Generic OCR")	at (468, 12)	18	on_csv	csv.script
+2016-06-03 18:11:31.031 +0100	imagefound	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(362,166), ImageRectangle:(334,159,391,173), Language:"English", TEXT:"Cleaning", TextPlatform:"Generic OCR")	found at (362, 166)	25	on_csv	csv.script
+2016-06-03 18:11:31.031 +0100	doubleclick	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(362,166), ImageRectangle:(334,159,390,173), Language:"English", searchrectangle:(306,137,567,643), TEXT:"Cleaning", TextPlatform:"Generic OCR")	at (362, 166)	31	on_csv	csv.script
+2016-06-03 18:11:32.032 +0100	waitfor	sub2/sub	found at (810, 234)	33	on_csv	csv.script
+2016-06-03 18:11:32.032 +0100	click	sub2/sub	at (763, 234)	35	on_csv	csv.script
+2016-06-03 18:11:32.032 +0100	Log		Dust	36	on_csv	csv.script
+2016-06-03 18:11:33.033 +0100	typetext		Dust[return]	37	on_csv	csv.script
+2016-06-03 18:11:42.042 +0100	waitfor	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(722,229), ImageRectangle:(707,224,737,235), Language:"English", TEXT:"Dust", TextPlatform:"Generic OCR")	found at (722, 229)	38	on_csv	csv.script
+2016-06-03 18:11:42.042 +0100	click	closeView_new	at (673, 707)	39	on_csv	csv.script
+2016-06-03 18:11:42.042 +0100	waitfor	BottomRight	found at (567, 643)	40	on_csv	csv.script
+2016-06-03 18:11:44.044 +0100	imagefound	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(65,595), ImageRectangle:(41,588,90,602), Language:"English", text:"Recipes", TextPlatform:"Generic OCR")	found at (65, 595)	17	on_csv	csv.script
+2016-06-03 18:11:47.047 +0100	click	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(65,595), ImageRectangle:(41,588,90,602), Language:"English", TEXT:"Recipes", TextPlatform:"Generic OCR")	at (65, 595)	18	on_csv	csv.script
+2016-06-03 18:12:04.004 +0100	imagefound	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:"", ImageRectangle:"", Language:"English", TEXT:"Bread", TextPlatform:"Generic OCR")	Unable to Find Image (TEXT:"Bread") within 1.00 seconds	25	on_csv	csv.script
+2016-06-03 18:12:04.004 +0100	Log		creating todos	2	on_create	Todo.script
+2016-06-03 18:12:05.005 +0100	click	newtodo	at (314, 106)	3	on_create	Todo.script
+2016-06-03 18:12:05.005 +0100	typetext		Bread[return]	4	on_create	Todo.script
+2016-06-03 18:12:06.006 +0100	waitfor	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(353,164), ImageRectangle:(334,159,372,170), Language:"English", searchrectangle:(306,137,536,700), Text:"Bread", TextDifference:"1", TextPlatform:"Generic OCR")	found at (353, 164)	5	on_create	Todo.script
+2016-06-03 18:12:06.006 +0100	Log		todo created	6	on_create	Todo.script
+2016-06-03 18:12:07.007 +0100	doubleclick	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(353,164), ImageRectangle:(334,159,372,170), Language:"English", searchrectangle:(306,137,567,643), TEXT:"Bread", TextPlatform:"Generic OCR")	at (353, 164)	31	on_csv	csv.script
+2016-06-03 18:12:07.007 +0100	waitfor	sub2/sub	found at (932, 266)	33	on_csv	csv.script
+2016-06-03 18:12:07.007 +0100	click	sub2/sub	at (801, 266)	35	on_csv	csv.script
+2016-06-03 18:12:07.007 +0100	Log		Flour	36	on_csv	csv.script
+2016-06-03 18:12:08.008 +0100	typetext		Flour[return]	37	on_csv	csv.script
+2016-06-03 18:12:43.043 +0100	Exception	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:"", ImageRectangle:"", Language:"English", TEXT:"Flour", TextPlatform:"Generic OCR")	Unable To Find Any Image On Screen "(TEXT:"Flour")" within 8.00 seconds	38	on_csv	csv.script
+2016-06-03 18:12:43.043 +0100	EndTestCase		(Duration:"145.331", Errors:"1", Exceptions:"1", StartTime:"2016-06-03 18:10:18 +0100", Successes:"0", TestCase:"csv.script", Warnings:"0")
+2016-06-03 18:12:43.043 +0100	FAILURE	Screen_Error.png	Image Not Found waitfor Error - Unable To Find Any Image On Screen "(TEXT:"Flour")" within 8.00 seconds -- Execution Time 0:02:25 csv.script

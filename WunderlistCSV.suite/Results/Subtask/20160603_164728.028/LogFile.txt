@@ -1,0 +1,7 @@
+﻿2016-06-03 16:47:28.028 +0100	START		Running Subtask.script
+2016-06-03 16:47:29.029 +0100	click	sub	at (764, 292)	1	on_subtask	Subtask.script
+2016-06-03 16:47:29.029 +0100	typetext		subtask[return]	2	on_subtask	Subtask.script
+2016-06-03 16:47:32.032 +0100	waitfor	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(731,197), ImageRectangle:(707,192,756,203), Language:"English", TEXT:"subtask", TextPlatform:"Generic OCR")	found at (731, 197)	3	on_subtask	Subtask.script
+2016-06-03 16:47:32.032 +0100	click	closeView_new	at (673, 707)	4	on_subtask	Subtask.script
+2016-06-03 16:47:33.033 +0100	EndTestCase		(Duration:"4.806", Errors:"0", Exceptions:"0", StartTime:"2016-06-03 16:47:28 +0100", Successes:"1", TestCase:"Subtask.script", Warnings:"0")
+2016-06-03 16:47:33.033 +0100	SUCCESS		Execution Time 0:00:05 Subtask.script

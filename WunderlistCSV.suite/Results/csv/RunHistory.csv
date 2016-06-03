@@ -1,0 +1,71 @@
+﻿Date Run,Status,Time,# of Errors,# of Warnings,# of Exceptions,Log File,Return Value,Error Message,# of Successes
+2016-06-03 15:31:15.015 +0100,"Failure",0:00:01,1,0,0,"20160603_153115.015/LogFile.txt","","SRUN_BadValue -- Bad value for Object expression.  Looking for an object or script identifier, got 'List'.",0
+2016-06-03 15:33:20.020 +0100,"Failure",0:00:00,1,0,0,"20160603_153320.020/LogFile.txt","","SenseTalk Compiler Exception -- in csv:\nSyntax Error at line 14: Syntax Error - can't understand ""repeat"" at or near character 358",0
+2016-06-03 15:33:25.025 +0100,"Failure",0:00:00,1,0,0,"20160603_153325.025/LogFile.txt","","SenseTalk Compiler Exception -- in csv:\nSyntax Error at line 14: Syntax Error - can't understand ""repeat"" at or near character 358",0
+2016-06-03 15:33:47.047 +0100,"Running",0:00:00,0,0,0,"20160603_153347.047/LogFile.txt","","",0
+2016-06-03 15:35:07.007 +0100,"Running",0:00:00,0,0,0,"20160603_153507.007/LogFile.txt","","",0
+2016-06-03 15:36:03.003 +0100,"Success",0:01:28,0,0,0,"20160603_153603.003/LogFile.txt","","",1
+2016-06-03 15:39:22.022 +0100,"Failure",0:00:18,1,0,0,"20160603_153922.022/LogFile.txt","","SRUN_BadValue -- Bad value for Object expression.  Looking for an object or script identifier, got 'List'.",0
+2016-06-03 15:41:18.018 +0100,"Failure",0:00:18,1,0,0,"20160603_154118.018/LogFile.txt","","SRUN_BadValue -- Bad value for Object expression.  Looking for an object or script identifier, got 'List'.",0
+2016-06-03 15:41:53.053 +0100,"Failure",0:00:18,1,0,0,"20160603_154153.053/LogFile.txt","","SRUN_BadValue -- Bad value for Object expression.  Looking for an object or script identifier, got 'List'.",0
+2016-06-03 15:42:36.036 +0100,"Failure",0:00:18,1,0,0,"20160603_154236.036/LogFile.txt","","SRUN_BadValue -- Bad value for Object expression.  Looking for an object or script identifier, got 'List'.",0
+2016-06-03 15:43:32.032 +0100,"Failure",0:00:17,1,0,0,"20160603_154332.032/LogFile.txt","","SRUN_BadValue -- Bad value for Object expression.  Looking for an object or script identifier, got 'List'.",0
+2016-06-03 15:44:16.016 +0100,"Failure",0:00:18,1,0,0,"20160603_154416.016/LogFile.txt","","STUnknownMessage -- ERROR: No Such Command: 'create'",0
+2016-06-03 15:45:02.002 +0100,"Failure",0:00:18,1,0,0,"20160603_154502.002/LogFile.txt","","STUnknownMessage -- ERROR: No Such Command: 'create'",0
+2016-06-03 15:45:44.044 +0100,"Failure",0:00:18,1,0,0,"20160603_154544.044/LogFile.txt","","SenseTalk Compiler Exception -- in create:\nSyntax Error at line 1: Syntax Error - can't understand [end of script] at or near character 10",0
+2016-06-03 15:51:57.057 +0100,"Failure",0:00:17,1,0,0,"20160603_155157.057/LogFile.txt","","SenseTalk Compiler Exception -- in create:\nSyntax Error at line 1: Syntax Error - can't understand [end of script] at or near character 10",0
+2016-06-03 15:52:40.040 +0100,"Running",0:00:00,0,0,0,"20160603_155240.040/LogFile.txt","","",0
+2016-06-03 15:55:41.041 +0100,"Running",0:00:00,0,0,0,"20160603_155541.041/LogFile.txt","","",0
+2016-06-03 15:56:00.000 +0100,"Running",0:00:00,0,0,0,"20160603_155600.000/LogFile.txt","","",0
+2016-06-03 15:56:49.049 +0100,"Failure",0:00:51,1,0,1,"20160603_155649.049/LogFile.txt","","Image Not Found -- waitfor Error - Unable To Find Any Image On Screen ""(TEXT:""Recipes"")"" within 3.00 seconds",0
+2016-06-03 15:58:29.029 +0100,"Success",0:01:06,0,0,0,"20160603_155829.029/LogFile.txt","","",1
+2016-06-03 16:03:02.002 +0100,"Failure",0:00:00,1,0,0,"20160603_160302.002/LogFile.txt","","SenseTalk Compiler Exception -- in csv:\nSyntax Error at line 19: Syntax Error - can't understand "")"" at or near character 391",0
+2016-06-03 16:03:48.048 +0100,"Failure",0:00:00,1,0,0,"20160603_160348.048/LogFile.txt","","SenseTalk Compiler Exception -- in csv:\nSyntax Error at line 22: Syntax Error - can't understand ""do"" at or near character 424",0
+2016-06-03 16:04:10.010 +0100,"Failure",0:00:33,1,0,0,"20160603_160410.010/LogFile.txt","","STUnknownMessage -- ERROR: No Such Command: 'create'",0
+2016-06-03 16:05:00.000 +0100,"Running",0:00:00,0,0,0,"20160603_160500.000/LogFile.txt","","",0
+2016-06-03 16:05:04.004 +0100,"Failure",0:00:31,1,0,0,"20160603_160504.004/LogFile.txt","","STUnknownMessage -- ERROR: No Such Command: 'create'",0
+2016-06-03 16:11:54.054 +0100,"Running",0:00:00,0,0,0,"20160603_161154.054/LogFile.txt","","",0
+2016-06-03 16:13:44.044 +0100,"Failure",0:00:38,1,0,0,"20160603_161344.044/LogFile.txt","","STUnknownMessage -- ERROR: No Such Command: 'create'",0
+2016-06-03 16:29:56.056 +0100,"Failure",0:01:32,1,0,1,"20160603_162956.056/LogFile.txt","","Image Not Found -- click Error - No Image Found On Screen: ""closeView""",0
+2016-06-03 16:31:47.047 +0100,"Failure",0:00:40,1,0,0,"20160603_163147.047/LogFile.txt","","Image Not Found -- doubleclick Error - Unable To Find Image: TopLeft",0
+2016-06-03 16:33:13.013 +0100,"Running",0:00:00,0,0,0,"20160603_163313.013/LogFile.txt","","",0
+2016-06-03 16:34:35.035 +0100,"Failure",0:00:40,1,0,1,"20160603_163435.035/LogFile.txt","","Image Not Found -- doubleclick Error - No Image Found On Screen: ""(TEXT:""Shopping"")""  Restricted Search Rectangle ((383,181),(980,666))\n",0
+2016-06-03 16:35:20.020 +0100,"Failure",0:00:40,1,0,1,"20160603_163520.020/LogFile.txt","","Image Not Found -- doubleclick Error - No Image Found On Screen: ""(TEXT:""Shopping"")""  Restricted Search Rectangle ((383,181),(980,666))\n",0
+2016-06-03 16:36:18.018 +0100,"Running",0:00:00,0,0,0,"20160603_163618.018/LogFile.txt","","",0
+2016-06-03 16:36:43.043 +0100,"Failure",0:00:38,1,0,1,"20160603_163643.043/LogFile.txt","","Image Not Found -- waitfor Error - Unable To Find Any Image On Screen ""sub"" within 8.00 seconds",0
+2016-06-03 16:37:39.039 +0100,"Failure",0:00:36,1,0,1,"20160603_163739.039/LogFile.txt","","Image Not Found -- doubleclick Error - No Image Found On Screen: ""(TEXT:""Shopping"")""  Restricted Search Rectangle ((383,181),(980,666))\n",0
+2016-06-03 16:38:24.024 +0100,"Failure",0:00:36,1,0,1,"20160603_163824.024/LogFile.txt","","Image Not Found -- doubleclick Error - No Image Found On Screen: ""(TEXT:""Shopping"")""  Restricted Search Rectangle ((383,181),(980,666))\n",0
+2016-06-03 16:41:46.046 +0100,"Failure",0:00:53,1,0,1,"20160603_164146.046/LogFile.txt","","Image Not Found -- waitfor Error - Unable To Find Any Image On Screen ""(TEXT:""Milk"")"" within 8.00 seconds",0
+2016-06-03 16:45:08.008 +0100,"Failure",0:00:40,1,0,1,"20160603_164508.008/LogFile.txt","","Image Not Found -- click Error - No Image Found On Screen: ""closeView""",0
+2016-06-03 16:45:59.059 +0100,"Failure",0:00:32,1,0,1,"20160603_164559.059/LogFile.txt","","Image Not Found -- click Error - No Image Found On Screen: ""closeView""",0
+2016-06-03 16:47:07.007 +0100,"Running",0:00:00,0,0,0,"20160603_164707.007/LogFile.txt","","",0
+2016-06-03 16:47:37.037 +0100,"Failure",0:01:03,1,0,1,"20160603_164737.037/LogFile.txt","","Image Not Found -- waitfor Error - Image Property List did not contain ""ImageName"" property",0
+2016-06-03 16:49:18.018 +0100,"Failure",0:00:41,1,0,0,"20160603_164918.018/LogFile.txt","","Image Not Found -- doubleclick Error - Unable To Find Image: BottomRight",0
+2016-06-03 16:51:04.004 +0100,"Failure",0:00:46,1,0,1,"20160603_165104.004/LogFile.txt","","Image Not Found -- waitfor Error - Image Property List did not contain ""ImageName"" property",0
+2016-06-03 16:54:06.006 +0100,"Failure",0:00:00,1,0,0,"20160603_165406.006/LogFile.txt","","SenseTalk Compiler Exception -- in csv:\nSyntax Error at line 37: Syntax Error - can't understand ""repeat"" at or near character 864",0
+2016-06-03 16:54:11.011 +0100,"Failure",0:00:00,1,0,0,"20160603_165411.011/LogFile.txt","","SenseTalk Compiler Exception -- in csv:\nSyntax Error at line 37: Syntax Error - can't understand ""repeat"" at or near character 864",0
+2016-06-03 16:54:19.019 +0100,"Failure",0:00:00,1,0,0,"20160603_165419.019/LogFile.txt","","SenseTalk Compiler Exception -- in csv:\nSyntax Error at line 37: Syntax Error - can't understand ""repeat"" at or near character 864",0
+2016-06-03 16:54:31.031 +0100,"Failure",0:00:00,1,0,0,"20160603_165431.031/LogFile.txt","","SenseTalk Compiler Exception -- in csv:\nSyntax Error at line 37: Syntax Error - can't understand ""repeat"" at or near character 864",0
+2016-06-03 16:54:46.046 +0100,"Failure",0:00:00,1,0,0,"20160603_165446.046/LogFile.txt","","SenseTalk Compiler Exception -- in csv:\nSyntax Error at line 38: Syntax Error - can't understand ""repeat"" at or near character 874",0
+2016-06-03 16:55:11.011 +0100,"Failure",0:00:54,1,0,1,"20160603_165511.011/LogFile.txt","","Image Not Found -- waitfor Error - Unable To Find Any Image On Screen ""sub"" within 8.00 seconds",0
+2016-06-03 16:56:34.034 +0100,"Failure",0:01:39,1,0,1,"20160603_165634.034/LogFile.txt","","Image Not Found -- waitfor Error - Unable To Find Any Image On Screen ""(TEXT:""Hoover"")"" within 8.00 seconds",0
+2016-06-03 16:59:27.027 +0100,"Failure",0:01:36,1,0,1,"20160603_165927.027/LogFile.txt","","Image Not Found -- waitfor Error - Unable To Find Any Image On Screen ""(TEXT:""Hoover"")"" within 8.00 seconds",0
+2016-06-03 17:01:18.018 +0100,"Failure",0:01:30,1,0,1,"20160603_170118.018/LogFile.txt","","Image Not Found -- waitfor Error - Unable To Find Any Image On Screen ""(TEXT:""Hoover"")"" within 8.00 seconds",0
+2016-06-03 17:03:53.053 +0100,"Failure",0:01:29,1,0,1,"20160603_170353.053/LogFile.txt","","Image Not Found -- waitfor Error - Unable To Find Any Image On Screen ""(TEXT:""Hoover"")"" within 8.00 seconds",0
+2016-06-03 17:06:23.023 +0100,"Failure",0:01:32,1,0,1,"20160603_170623.023/LogFile.txt","","Image Not Found -- waitfor Error - Unable To Find Any Image On Screen ""(TEXT:""Hoover"")"" within 8.00 seconds",0
+2016-06-03 17:09:55.055 +0100,"Running",0:00:00,0,0,0,"20160603_170955.055/LogFile.txt","","",0
+2016-06-03 17:12:01.001 +0100,"Running",0:00:00,0,0,0,"20160603_171201.001/LogFile.txt","","",0
+2016-06-03 17:15:12.012 +0100,"Failure",0:02:59,1,0,1,"20160603_171512.012/LogFile.txt","","Image Not Found -- waitfor Error - Unable To Find Any Image On Screen ""(TEXT:""Hoover"")"" within 8.00 seconds",0
+2016-06-03 17:20:06.006 +0100,"Running",0:00:00,0,0,0,"20160603_172006.006/LogFile.txt","","",0
+2016-06-03 17:24:10.010 +0100,"Failure",0:02:22,1,0,1,"20160603_172410.010/LogFile.txt","","Image Not Found -- waitfor Error - Unable To Find Any Image On Screen ""(TEXT:""Hoover"")"" within 8.00 seconds",0
+2016-06-03 17:27:25.025 +0100,"Failure",0:02:35,1,0,1,"20160603_172725.025/LogFile.txt","","Image Not Found -- click Error - No Image Found On Screen: ""newtodo""",1
+2016-06-03 17:32:29.029 +0100,"Failure",0:01:17,1,0,0,"20160603_173229.029/LogFile.txt","","Image Not Found -- waitfor Error - Unable To Find Image: BottomRight",0
+2016-06-03 17:34:11.011 +0100,"Failure",0:02:48,1,0,1,"20160603_173411.011/LogFile.txt","","Image Not Found -- click Error - No Image Found On Screen: ""Save""",0
+2016-06-03 17:37:43.043 +0100,"Failure",0:01:09,1,0,0,"20160603_173743.043/LogFile.txt","","Image Not Found -- waitfor Error - Unable To Find Image: BottomRight",0
+2016-06-03 17:39:00.000 +0100,"Running",0:00:00,0,0,0,"20160603_173900.000/LogFile.txt","","",0
+2016-06-03 17:43:01.001 +0100,"Running",0:00:00,0,0,0,"20160603_174301.001/LogFile.txt","","",0
+2016-06-03 17:49:44.044 +0100,"Failure",0:00:57,1,0,1,"20160603_174944.044/LogFile.txt","","Image Not Found -- waitfor Error - Unable To Find Any Image On Screen ""(TEXT:""Milk"")"" within 8.00 seconds",0
+2016-06-03 17:50:47.047 +0100,"Failure",0:02:29,1,0,1,"20160603_175047.047/LogFile.txt","","Image Not Found -- click Error - No Image Found On Screen: ""Save""",0
+2016-06-03 18:00:34.034 +0100,"Failure",0:05:33,1,0,1,"20160603_180034.034/LogFile.txt","","Image Not Found -- waitfor Error - Unable To Find Any Image On Screen ""(TEXT:""Shopping"")"" within 5.00 seconds  Restricted Search Rectangle ((383,181),(536,700))\n",1
+2016-06-03 18:07:58.058 +0100,"Running",0:00:00,0,0,0,"20160603_180758.058/LogFile.txt","","",0
+2016-06-03 18:10:18.018 +0100,"Failure",0:02:25,1,0,1,"20160603_181018.018/LogFile.txt","","Image Not Found -- waitfor Error - Unable To Find Any Image On Screen ""(TEXT:""Flour"")"" within 8.00 seconds",0

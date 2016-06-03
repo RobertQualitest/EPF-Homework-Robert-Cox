@@ -1,0 +1,12 @@
+﻿<?xml version="1.0"?>
+<testsuites>
+ <testsuite name="csv.script" package="WunderlistCSV.suite" timestamp="2016-06-03 17:27:25.025 +0100"
+ tests="1" successes="1" errors="1" time="155.719000">
+  <properties>
+   <property name="RunDate" value="2016-06-03 17:27:25.025 +0100"/>
+   <property name="Status" value="Failure"/>
+  </properties>
+  <testcase name="csv.script" assertions="2" successes="1" errors="1" time="155.698">
+  </testcase>
+ </testsuite>
+</testsuites>

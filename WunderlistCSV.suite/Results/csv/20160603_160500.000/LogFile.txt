@@ -1,0 +1,4 @@
+﻿2016-06-03 16:05:00.000 +0100	START		Running csv.script
+2016-06-03 16:05:02.002 +0100	Exception		Searching For Image: OCR Error: Operation was aborted	11	on_csv	csv.script
+2016-06-03 16:05:02.002 +0100	EndTestCase		(Duration:"1.938", Errors:"1", Exceptions:"1", StartTime:"2016-06-03 16:05:00 +0100", Successes:"0", TestCase:"csv.script", Warnings:"0")
+2016-06-03 16:05:02.002 +0100	ABORTED		Execution Time 0:00:02 csv.script

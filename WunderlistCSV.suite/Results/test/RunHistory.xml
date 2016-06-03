@@ -1,0 +1,15 @@
+﻿<?xml version="1.0"?>
+<runHistory script="test">
+ <run>
+  <RunDate>2016-06-03 15:34:45.045 +0100</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.581000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20160603_153445.045/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>STUnknownMessage -- ERROR: No Such Command: &#x27;loaddata2&#x27;</ErrorMessage>
+ </run>
+</runHistory>

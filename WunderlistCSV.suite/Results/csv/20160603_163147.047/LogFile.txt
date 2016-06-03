@@ -1,0 +1,6 @@
+﻿2016-06-03 16:31:47.047 +0100	START		Running csv.script
+2016-06-03 16:31:50.050 +0100	imagefound	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(79,139), ImageRectangle:(40,132,119,146), Language:"English", text:"Things to do", TextPlatform:"Generic OCR")	found at (79, 139)	12	on_csv	csv.script
+2016-06-03 16:31:51.051 +0100	click	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(79,139), ImageRectangle:(40,132,119,146), Language:"English", TEXT:"Things to do", TextPlatform:"Generic OCR")	at (79, 139)	13	on_csv	csv.script
+2016-06-03 16:32:01.001 +0100	imagefound	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:"", ImageRectangle:"", Language:"English", TEXT:"Shopping", TextPlatform:"Generic OCR")	Unable to Find Image (TEXT:"Shopping") within 1.00 seconds	20	on_csv	csv.script
+2016-06-03 16:32:28.028 +0100	EndTestCase		(Duration:"40.92", Errors:"1", Exceptions:"0", StartTime:"2016-06-03 16:31:47 +0100", Successes:"0", TestCase:"csv.script", Warnings:"0")
+2016-06-03 16:32:29.029 +0100	FAILURE	Screen_Error.png	Image Not Found doubleclick Error - Unable To Find Image: TopLeft -- Execution Time 0:00:41 csv.script

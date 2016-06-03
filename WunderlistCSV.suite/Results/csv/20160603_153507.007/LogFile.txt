@@ -1,0 +1,28 @@
+﻿2016-06-03 15:35:07.007 +0100	START		Running csv.script
+2016-06-03 15:35:08.008 +0100	imagefound	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(346,46), ImageRectangle:(293,38,399,55), Language:"English", text:"Things to do", TextPlatform:"Generic OCR")	found at (346, 46)	9	on_csv	csv.script
+2016-06-03 15:35:08.008 +0100	Log		Click the: Things to do	10	on_csv	csv.script
+2016-06-03 15:35:09.009 +0100	imagefound	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(346,46), ImageRectangle:(293,38,399,55), Language:"English", text:"Things to do", TextPlatform:"Generic OCR")	found at (346, 46)	9	on_csv	csv.script
+2016-06-03 15:35:09.009 +0100	Log		Click the: Things to do	10	on_csv	csv.script
+2016-06-03 15:35:10.010 +0100	imagefound	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(346,46), ImageRectangle:(293,38,399,55), Language:"English", text:"Things to do", TextPlatform:"Generic OCR")	found at (346, 46)	9	on_csv	csv.script
+2016-06-03 15:35:10.010 +0100	Log		Click the: Things to do	10	on_csv	csv.script
+2016-06-03 15:35:11.011 +0100	imagefound	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(346,46), ImageRectangle:(293,38,399,55), Language:"English", text:"Things to do", TextPlatform:"Generic OCR")	found at (346, 46)	9	on_csv	csv.script
+2016-06-03 15:35:11.011 +0100	Log		Click the: Things to do	10	on_csv	csv.script
+2016-06-03 15:35:11.011 +0100	imagefound	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(346,46), ImageRectangle:(293,38,399,55), Language:"English", text:"Things to do", TextPlatform:"Generic OCR")	found at (346, 46)	9	on_csv	csv.script
+2016-06-03 15:35:11.011 +0100	Log		Click the: Things to do	10	on_csv	csv.script
+2016-06-03 15:35:12.012 +0100	imagefound	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(346,46), ImageRectangle:(293,38,399,55), Language:"English", text:"Things to do", TextPlatform:"Generic OCR")	found at (346, 46)	9	on_csv	csv.script
+2016-06-03 15:35:12.012 +0100	Log		Click the: Things to do	10	on_csv	csv.script
+2016-06-03 15:35:20.020 +0100	imagefound	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:"", ImageRectangle:"", Language:"English", text:"Recipes", TextPlatform:"Generic OCR")	Unable to Find Image (TEXT:"Recipes") within 2.00 seconds	9	on_csv	csv.script
+2016-06-03 15:35:20.020 +0100	Log		Create the:Recipes	12	on_csv	csv.script
+2016-06-03 15:35:28.028 +0100	imagefound	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:"", ImageRectangle:"", Language:"English", text:"Recipes", TextPlatform:"Generic OCR")	Unable to Find Image (TEXT:"Recipes") within 2.00 seconds	9	on_csv	csv.script
+2016-06-03 15:35:28.028 +0100	Log		Create the:Recipes	12	on_csv	csv.script
+2016-06-03 15:35:36.036 +0100	imagefound	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:"", ImageRectangle:"", Language:"English", text:"Recipes", TextPlatform:"Generic OCR")	Unable to Find Image (TEXT:"Recipes") within 2.00 seconds	9	on_csv	csv.script
+2016-06-03 15:35:36.036 +0100	Log		Create the:Recipes	12	on_csv	csv.script
+2016-06-03 15:35:44.044 +0100	imagefound	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:"", ImageRectangle:"", Language:"English", text:"Recipes", TextPlatform:"Generic OCR")	Unable to Find Image (TEXT:"Recipes") within 2.00 seconds	9	on_csv	csv.script
+2016-06-03 15:35:44.044 +0100	Log		Create the:Recipes	12	on_csv	csv.script
+2016-06-03 15:35:52.052 +0100	imagefound	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:"", ImageRectangle:"", Language:"English", text:"Recipes", TextPlatform:"Generic OCR")	Unable to Find Image (TEXT:"Recipes") within 2.00 seconds	9	on_csv	csv.script
+2016-06-03 15:35:52.052 +0100	Log		Create the:Recipes	12	on_csv	csv.script
+2016-06-03 15:36:00.000 +0100	imagefound	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:"", ImageRectangle:"", Language:"English", text:"Recipes", TextPlatform:"Generic OCR")	Unable to Find Image (TEXT:"Recipes") within 2.00 seconds	9	on_csv	csv.script
+2016-06-03 15:36:00.000 +0100	Log		Create the:Recipes	12	on_csv	csv.script
+2016-06-03 15:36:01.001 +0100	Exception		Searching For Image: OCR Error: Operation was aborted	9	on_csv	csv.script
+2016-06-03 15:36:02.002 +0100	EndTestCase		(Duration:"54.491", Errors:"1", Exceptions:"1", StartTime:"2016-06-03 15:35:07 +0100", Successes:"0", TestCase:"csv.script", Warnings:"0")
+2016-06-03 15:36:02.002 +0100	ABORTED		Execution Time 0:00:55 csv.script

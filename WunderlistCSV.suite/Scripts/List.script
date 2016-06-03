@@ -1,0 +1,10 @@
+﻿to create list_name
+
+	Log "List is being made:" & list_name
+	
+	Click "CreateL"
+	TypeText list_name
+	Click "Save"
+	
+	LogSuccess "The list has been made" & list_name
+end create

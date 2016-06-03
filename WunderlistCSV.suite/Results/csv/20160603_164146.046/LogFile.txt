@@ -1,0 +1,16 @@
+﻿2016-06-03 16:41:46.046 +0100	START		Running csv.script
+2016-06-03 16:41:47.047 +0100	imagefound	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(346,46), ImageRectangle:(293,38,399,55), Language:"English", text:"Things to do", TextPlatform:"Generic OCR")	found at (346, 46)	12	on_csv	csv.script
+2016-06-03 16:41:48.048 +0100	click	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(346,46), ImageRectangle:(293,38,399,55), Language:"English", TEXT:"Things to do", TextPlatform:"Generic OCR")	at (346, 46)	13	on_csv	csv.script
+2016-06-03 16:41:55.055 +0100	imagefound	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:"", ImageRectangle:"", Language:"English", TEXT:"Shopping", TextPlatform:"Generic OCR")	Unable to Find Image (TEXT:"Shopping") within 1.00 seconds	20	on_csv	csv.script
+2016-06-03 16:41:56.056 +0100	Log		creating todos	2	on_create	Todo.script
+2016-06-03 16:41:56.056 +0100	click	newtodo	at (314, 106)	3	on_create	Todo.script
+2016-06-03 16:41:56.056 +0100	typetext		Shopping[return]	4	on_create	Todo.script
+2016-06-03 16:41:58.058 +0100	waitfor	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(364,166), ImageRectangle:(334,159,394,173), Language:"English", searchrectangle:(306,137,980,666), Text:"Shopping", TextDifference:"1", TextPlatform:"Generic OCR")	found at (364, 166)	5	on_create	Todo.script
+2016-06-03 16:41:58.058 +0100	Log		todo created	6	on_create	Todo.script
+2016-06-03 16:41:58.058 +0100	doubleclick	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(364,166), ImageRectangle:(334,159,394,173), Language:"English", searchrectangle:(306,137,980,666), TEXT:"Shopping", TextPlatform:"Generic OCR")	at (364, 166)	23	on_csv	csv.script
+2016-06-03 16:41:59.059 +0100	waitfor	sub	found at (935, 260)	25	on_csv	csv.script
+2016-06-03 16:41:59.059 +0100	click	sub	at (804, 260)	27	on_csv	csv.script
+2016-06-03 16:42:00.000 +0100	typetext		Milk[return]	28	on_csv	csv.script
+2016-06-03 16:42:38.038 +0100	Exception	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:"", ImageRectangle:"", Language:"English", TEXT:"Milk", TextPlatform:"Generic OCR")	Unable To Find Any Image On Screen "(TEXT:"Milk")" within 8.00 seconds	29	on_csv	csv.script
+2016-06-03 16:42:39.039 +0100	EndTestCase		(Duration:"53.231", Errors:"1", Exceptions:"1", StartTime:"2016-06-03 16:41:46 +0100", Successes:"0", TestCase:"csv.script", Warnings:"0")
+2016-06-03 16:42:39.039 +0100	FAILURE	Screen_Error.png	Image Not Found waitfor Error - Unable To Find Any Image On Screen "(TEXT:"Milk")" within 8.00 seconds -- Execution Time 0:00:53 csv.script

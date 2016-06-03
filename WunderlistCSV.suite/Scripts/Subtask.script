@@ -1,0 +1,4 @@
+﻿Click"sub2/sub"
+Typetext subtask, return
+WaitFor 8.0, (TEXT: subtask)
+Click "closeView_new"

@@ -1,0 +1,7 @@
+﻿2016-06-03 17:12:01.001 +0100	START		Running csv.script
+2016-06-03 17:12:03.003 +0100	imagefound	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(347,47), ImageRectangle:(296,39,399,56), Language:"English", text:"Things to do", TextPlatform:"Generic OCR")	found at (347, 47)	17	on_csv	csv.script
+2016-06-03 17:12:05.005 +0100	click	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(347,47), ImageRectangle:(296,39,399,56), Language:"English", TEXT:"Things to do", TextPlatform:"Generic OCR")	at (347, 47)	18	on_csv	csv.script
+2016-06-03 17:12:07.007 +0100	imagefound	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(364,260), ImageRectangle:(334,253,394,268), Language:"English", TEXT:"Shopping", TextPlatform:"Generic OCR")	found at (364, 260)	25	on_csv	csv.script
+2016-06-03 17:12:07.007 +0100	doubleclick	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(364,260), ImageRectangle:(334,253,394,267), Language:"English", searchrectangle:(306,137,534,701), TEXT:"Shopping", TextPlatform:"Generic OCR")	at (364, 260)	31	on_csv	csv.script
+2016-06-03 17:12:08.008 +0100	EndTestCase		(Duration:"6.703", Errors:"1", Exceptions:"0", StartTime:"2016-06-03 17:12:01 +0100", Successes:"0", TestCase:"csv.script", Warnings:"0")
+2016-06-03 17:12:08.008 +0100	ABORTED		Execution Time 0:00:07 csv.script

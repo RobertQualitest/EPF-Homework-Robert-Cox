@@ -1,0 +1,9 @@
+﻿2016-06-03 17:37:43.043 +0100	START		Running csv.script
+2016-06-03 17:37:45.045 +0100	imagefound	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(346,46), ImageRectangle:(293,38,399,55), Language:"English", text:"Things to do", TextPlatform:"Generic OCR")	found at (346, 46)	17	on_csv	csv.script
+2016-06-03 17:37:46.046 +0100	click	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(346,46), ImageRectangle:(293,38,399,55), Language:"English", TEXT:"Things to do", TextPlatform:"Generic OCR")	at (346, 46)	18	on_csv	csv.script
+2016-06-03 17:38:02.002 +0100	imagefound	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:"", ImageRectangle:"", Language:"English", TEXT:"Shopping", TextPlatform:"Generic OCR")	Unable to Find Image (TEXT:"Shopping") within 1.00 seconds	25	on_csv	csv.script
+2016-06-03 17:38:03.003 +0100	Log		creating todos	2	on_create	Todo.script
+2016-06-03 17:38:03.003 +0100	click	newtodo	at (728, 198)	3	on_create	Todo.script
+2016-06-03 17:38:03.003 +0100	typetext		Shopping[return]	4	on_create	Todo.script
+2016-06-03 17:38:53.053 +0100	EndTestCase		(Duration:"69.529", Errors:"1", Exceptions:"0", StartTime:"2016-06-03 17:37:43 +0100", Successes:"0", TestCase:"csv.script", Warnings:"0")
+2016-06-03 17:38:53.053 +0100	FAILURE	Screen_Error.png	Image Not Found waitfor Error - Unable To Find Image: BottomRight -- Execution Time 0:01:10 csv.script

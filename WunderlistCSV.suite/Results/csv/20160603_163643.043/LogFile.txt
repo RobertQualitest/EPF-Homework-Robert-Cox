@@ -1,0 +1,7 @@
+﻿2016-06-03 16:36:43.043 +0100	START		Running csv.script
+2016-06-03 16:36:44.044 +0100	imagefound	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(346,46), ImageRectangle:(293,38,399,55), Language:"English", text:"Things to do", TextPlatform:"Generic OCR")	found at (346, 46)	12	on_csv	csv.script
+2016-06-03 16:36:45.045 +0100	click	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(346,46), ImageRectangle:(293,38,399,55), Language:"English", TEXT:"Things to do", TextPlatform:"Generic OCR")	at (346, 46)	13	on_csv	csv.script
+2016-06-03 16:36:53.053 +0100	imagefound	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:"", ImageRectangle:"", Language:"English", TEXT:"Shopping", TextPlatform:"Generic OCR")	Unable to Find Image (TEXT:"Shopping") within 1.00 seconds	20	on_csv	csv.script
+2016-06-03 16:37:21.021 +0100	Exception	sub	Unable To Find Any Image On Screen "sub" within 8.00 seconds	25	on_csv	csv.script
+2016-06-03 16:37:21.021 +0100	EndTestCase		(Duration:"38.199", Errors:"1", Exceptions:"1", StartTime:"2016-06-03 16:36:43 +0100", Successes:"0", TestCase:"csv.script", Warnings:"0")
+2016-06-03 16:37:22.022 +0100	FAILURE	Screen_Error.png	Image Not Found waitfor Error - Unable To Find Any Image On Screen "sub" within 8.00 seconds -- Execution Time 0:00:38 csv.script

@@ -1,0 +1,4 @@
+﻿Date Run,Status,Time,# of Errors,# of Warnings,# of Exceptions,Log File,Return Value,Error Message,# of Successes
+2016-06-03 16:44:55.055 +0100,"Failure",0:00:04,1,0,1,"20160603_164455.055/LogFile.txt","","File Not Found -- click Error - Could Not Open Image: (empty)",0
+2016-06-03 16:47:28.028 +0100,"Success",0:00:04,0,0,0,"20160603_164728.028/LogFile.txt","","",1
+2016-06-03 16:59:05.005 +0100,"Success",0:00:03,0,0,0,"20160603_165905.005/LogFile.txt","","",1

@@ -1,0 +1,7 @@
+﻿2016-06-03 16:44:55.055 +0100	START		Running Subtask.script
+2016-06-03 16:44:56.056 +0100	click	sub	at (764, 196)	1	on_subtask	Subtask.script
+2016-06-03 16:44:56.056 +0100	typetext		subtask[return]	2	on_subtask	Subtask.script
+2016-06-03 16:44:59.059 +0100	waitfor	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(772,197), ImageRectangle:(747,192,797,203), Language:"English", TEXT:"subtask", TextPlatform:"Generic OCR")	found at (772, 197)	3	on_subtask	Subtask.script
+2016-06-03 16:44:59.059 +0100	Exception		Could Not Open Image: (empty)	4	on_subtask	Subtask.script
+2016-06-03 16:45:00.000 +0100	EndTestCase		(Duration:"4.405", Errors:"1", Exceptions:"1", StartTime:"2016-06-03 16:44:55 +0100", Successes:"0", TestCase:"Subtask.script", Warnings:"0")
+2016-06-03 16:45:00.000 +0100	FAILURE	Screen_Error.png	File Not Found click Error - Could Not Open Image: (empty) -- Execution Time 0:00:05 Subtask.script
