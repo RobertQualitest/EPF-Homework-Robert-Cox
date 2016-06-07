@@ -2,3 +2,5 @@
 2016-06-03 16:44:55.055 +0100,"Failure",0:00:04,1,0,1,"20160603_164455.055/LogFile.txt","","File Not Found -- click Error - Could Not Open Image: (empty)",0
 2016-06-03 16:47:28.028 +0100,"Success",0:00:04,0,0,0,"20160603_164728.028/LogFile.txt","","",1
 2016-06-03 16:59:05.005 +0100,"Success",0:00:03,0,0,0,"20160603_165905.005/LogFile.txt","","",1
+2016-06-07 21:12:14.014 +0100,"Failure",0:00:23,1,0,1,"20160607_211214.014/LogFile.txt","","Image Not Found -- click Error - No Image Found On Screen: ""sub2/sub""",0
+2016-06-07 21:14:41.041 +0100,"Failure",0:00:18,1,0,1,"20160607_211441.041/LogFile.txt","","Image Not Found -- click Error - No Image Found On Screen: ""sub2/sub""",0

@@ -1,0 +1,4 @@
+﻿2016-06-07 21:12:14.014 +0100	START		Running Subtask.script
+2016-06-07 21:12:36.036 +0100	Exception	sub2/sub	No Image Found On Screen: "sub2/sub"	1	on_subtask	Subtask.script
+2016-06-07 21:12:37.037 +0100	EndTestCase		(Duration:"23.219", Errors:"1", Exceptions:"1", StartTime:"2016-06-07 21:12:14 +0100", Successes:"0", TestCase:"Subtask.script", Warnings:"0")
+2016-06-07 21:12:37.037 +0100	FAILURE	Screen_Error.png	Image Not Found click Error - No Image Found On Screen: "sub2/sub" -- Execution Time 0:00:23 Subtask.script

@@ -3,7 +3,7 @@
  <run>
   <RunDate>2016-06-03 16:41:16.016 +0100</RunDate>
   <Status>Success</Status>
-  <Duration>0.020000</Duration>
+  <Duration>0.000000</Duration>
   <Errors>0</Errors>
   <Warnings>0</Warnings>
   <Exceptions>0</Exceptions>
@@ -12,15 +12,27 @@
   <ReturnValue></ReturnValue>
   <ErrorMessage></ErrorMessage>
  </run>
-< <run>
+ <run>
   <RunDate>2016-06-03 16:41:42.042 +0100</RunDate>
   <Status>Success</Status>
-  <Duration>0.019000</Duration>
+  <Duration>0.000000</Duration>
   <Errors>0</Errors>
   <Warnings>0</Warnings>
   <Exceptions>0</Exceptions>
   <Successes>1</Successes>
   <LogFile>20160603_164142.042/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+< <run>
+  <RunDate>2016-06-07 21:14:41.041 +0100</RunDate>
+  <Status>Success</Status>
+  <Duration>0.013000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20160607_211441.041/LogFile.txt</LogFile>
   <ReturnValue></ReturnValue>
   <ErrorMessage></ErrorMessage>
  </run>

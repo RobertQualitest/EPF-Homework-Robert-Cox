@@ -12,4 +12,16 @@
   <ReturnValue></ReturnValue>
   <ErrorMessage>STUnknownMessage -- ERROR: No Such Command: &#x27;loaddata2&#x27;</ErrorMessage>
  </run>
+< <run>
+  <RunDate>2016-06-07 21:13:20.020 +0100</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.483000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20160607_211320.020/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>STUnknownMessage -- ERROR: No Such Command: &#x27;loaddata&#x27;</ErrorMessage>
+ </run>
 </runHistory>

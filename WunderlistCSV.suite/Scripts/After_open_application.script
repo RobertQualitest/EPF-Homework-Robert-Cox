@@ -1,0 +1,4 @@
+﻿DoubleClick "Icon/Wunderlist CLose"
+Click (Image:"Icon/Wunderlist CLose", WaitFor:4.9), 
+
+Disconnect "i-b5223a19"

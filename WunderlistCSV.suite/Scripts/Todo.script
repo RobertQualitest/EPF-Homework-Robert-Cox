@@ -2,6 +2,6 @@
 	Log"creating todos"
 	Click "newtodo"
 	TypeText todo_name,Return
-	WaitFor 5.0, (Text:todo_name, TextDifference:1, searchrectangle:("TopLeft", "bottomright/BottomRight2")) 
+	WaitFor 5.0, (Text:todo_name, ValidWords:"*", TextDifference:1, searchrectangle:("TopLeft", "bottomright/BottomRight2")) 
 	Log "todo created"
 end create

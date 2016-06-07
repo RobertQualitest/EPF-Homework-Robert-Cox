@@ -69,3 +69,12 @@
 2016-06-03 18:00:34.034 +0100,"Failure",0:05:33,1,0,1,"20160603_180034.034/LogFile.txt","","Image Not Found -- waitfor Error - Unable To Find Any Image On Screen ""(TEXT:""Shopping"")"" within 5.00 seconds  Restricted Search Rectangle ((383,181),(536,700))\n",1
 2016-06-03 18:07:58.058 +0100,"Running",0:00:00,0,0,0,"20160603_180758.058/LogFile.txt","","",0
 2016-06-03 18:10:18.018 +0100,"Failure",0:02:25,1,0,1,"20160603_181018.018/LogFile.txt","","Image Not Found -- waitfor Error - Unable To Find Any Image On Screen ""(TEXT:""Flour"")"" within 8.00 seconds",0
+2016-06-06 23:36:47.047 +0100,"Failure",0:01:02,1,0,1,"20160606_233647.047/LogFile.txt","","Image Not Found -- waitfor Error - Unable To Find Any Image On Screen ""(TEXT:""Eggs"")"" within 8.00 seconds",0
+2016-06-06 23:38:06.006 +0100,"Running",0:00:00,0,0,0,"20160606_233806.006/LogFile.txt","","",0
+2016-06-06 23:41:49.049 +0100,"Failure",0:00:25,1,0,1,"20160606_234149.049/LogFile.txt","","Image Not Found -- click Error - No Image Found On Screen: ""CreateL""",0
+2016-06-06 23:43:25.025 +0100,"Running",0:00:00,0,0,0,"20160606_234325.025/LogFile.txt","","",0
+2016-06-06 23:44:50.050 +0100,"Failure",0:00:00,1,0,1,"20160606_234450.050/LogFile.txt","","No Remote Connection -- imagefound Error - Remote Connection Unavailable",0
+2016-06-07 00:04:25.025 +0100,"Running",0:00:00,0,0,0,"20160607_000425.025/LogFile.txt","","",0
+2016-06-07 00:07:29.029 +0100,"Failure",0:01:27,1,0,1,"20160607_000729.029/LogFile.txt","","Image Not Found -- waitfor Error - Unable To Find Any Image On Screen ""(TEXT:""Hoover"")"" within 8.00 seconds",0
+2016-06-07 21:07:07.007 +0100,"Failure",0:00:40,1,0,1,"20160607_210707.007/LogFile.txt","","Image Not Found -- click Error - No Image Found On Screen: ""CreateL""",0
+2016-06-07 21:15:00.000 +0100,"Failure",0:00:28,1,0,1,"20160607_211500.000/LogFile.txt","","Image Not Found -- click Error - No Image Found On Screen: ""CreateL""",0

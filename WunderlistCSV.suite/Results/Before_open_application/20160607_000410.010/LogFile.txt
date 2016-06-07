@@ -1,0 +1,5 @@
+﻿2016-06-07 00:04:10.010 +0100	START		Running Before_open_application.script
+2016-06-07 00:04:10.010 +0100	connect		i-d4322a78:(null)	1	on_before_open_application	Before_open_application.script
+2016-06-07 00:04:21.021 +0100	Exception	Icon/WunderlistIcon	No Image Found On Screen: "Icon/WunderlistIcon"	3	on_before_open_application	Before_open_application.script
+2016-06-07 00:04:22.022 +0100	EndTestCase		(Duration:"12.094", Errors:"1", Exceptions:"1", StartTime:"2016-06-07 00:04:10 +0100", Successes:"0", TestCase:"Before_open_application.script", Warnings:"0")
+2016-06-07 00:04:22.022 +0100	ABORTED		Execution Time 0:00:12 Before_open_application.script

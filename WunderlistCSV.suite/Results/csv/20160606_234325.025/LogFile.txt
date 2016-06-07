@@ -1,0 +1,14 @@
+﻿2016-06-06 23:43:25.025 +0100	START		Running csv.script
+2016-06-06 23:43:33.033 +0100	imagefound	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:"", ImageRectangle:"", Language:"English", text:"Things to do", TextPlatform:"Generic OCR")	Unable to Find Image (TEXT:"Things to do") within 2.00 seconds	17	on_csv	csv.script
+2016-06-06 23:43:33.033 +0100	Log		List is being made:Things to do	3	on_create	List.script
+2016-06-06 23:43:34.034 +0100	click	CreateL	at (19, 705)	5	on_create	List.script
+2016-06-06 23:43:34.034 +0100	typetext		Things to do	6	on_create	List.script
+2016-06-06 23:43:37.037 +0100	click	Save	at (641, 373)	7	on_create	List.script
+2016-06-06 23:43:37.037 +0100	LogSuccess		The list has been madeThings to do	9	on_create	List.script
+2016-06-06 23:43:50.050 +0100	imagefound	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:"", ImageRectangle:"", Language:"English", TEXT:"Shopping", TextPlatform:"Generic OCR")	Unable to Find Image (TEXT:"Shopping") within 1.00 seconds	25	on_csv	csv.script
+2016-06-06 23:43:50.050 +0100	Log		creating todos	2	on_create	Todo.script
+2016-06-06 23:43:50.050 +0100	click	newtodo	at (876, 448)	3	on_create	Todo.script
+2016-06-06 23:43:51.051 +0100	typetext		Shopping[return]	4	on_create	Todo.script
+2016-06-06 23:44:49.049 +0100	Exception	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:"", ImageRectangle:"", Language:"English", searchrectangle:(383,181,536,700), Text:"Shopping", TextDifference:"1", TextPlatform:"Generic OCR", ValidWords:(Shopping))	Unable To Find Any Image On Screen "(TEXT:"Shopping")" within 5.00 seconds	5	on_create	Todo.script
+2016-06-06 23:44:49.049 +0100	EndTestCase		(Duration:"84.431", Errors:"1", Exceptions:"1", StartTime:"2016-06-06 23:43:25 +0100", Successes:"1", TestCase:"csv.script", Warnings:"0")
+2016-06-06 23:44:49.049 +0100	ABORTED		Execution Time 0:01:24 csv.script

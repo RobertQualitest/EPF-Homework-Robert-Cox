@@ -330,10 +330,10 @@ Syntax Error at line 22: Syntax Error - can&#x27;t understand &quot;do&quot; at 
   <ReturnValue></ReturnValue>
   <ErrorMessage>STUnknownMessage -- ERROR: No Such Command: &#x27;create&#x27;</ErrorMessage>
  </run>
-< <run>
+ <run>
   <RunDate>2016-06-03 16:29:56.056 +0100</RunDate>
   <Status>Failure</Status>
-  <Duration>92.143000</Duration>
+  <Duration>92.000000</Duration>
   <Errors>1</Errors>
   <Warnings>0</Warnings>
   <Exceptions>1</Exceptions>
@@ -342,10 +342,10 @@ Syntax Error at line 22: Syntax Error - can&#x27;t understand &quot;do&quot; at 
   <ReturnValue></ReturnValue>
   <ErrorMessage>Image Not Found -- click Error - No Image Found On Screen: &quot;closeView&quot;</ErrorMessage>
  </run>
-< <run>
+ <run>
   <RunDate>2016-06-03 16:31:47.047 +0100</RunDate>
   <Status>Failure</Status>
-  <Duration>40.945000</Duration>
+  <Duration>40.000000</Duration>
   <Errors>1</Errors>
   <Warnings>0</Warnings>
   <Exceptions>0</Exceptions>
@@ -354,14 +354,14 @@ Syntax Error at line 22: Syntax Error - can&#x27;t understand &quot;do&quot; at 
   <ReturnValue></ReturnValue>
   <ErrorMessage>Image Not Found -- doubleclick Error - Unable To Find Image: TopLeft</ErrorMessage>
  </run>
-< <run>
+ <run>
   <RunDate>2016-06-03 16:33:13.013 +0100</RunDate>
   <Status>Running</Status>
   <Duration>0.000000</Duration>
-  <Errors></Errors>
-  <Warnings></Warnings>
-  <Exceptions></Exceptions>
-  <Successes></Successes>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
   <LogFile>20160603_163313.013/LogFile.txt</LogFile>
   <ReturnValue></ReturnValue>
   <ErrorMessage></ErrorMessage>
@@ -369,7 +369,7 @@ Syntax Error at line 22: Syntax Error - can&#x27;t understand &quot;do&quot; at 
  <run>
   <RunDate>2016-06-03 16:34:35.035 +0100</RunDate>
   <Status>Failure</Status>
-  <Duration>40.452000</Duration>
+  <Duration>40.000000</Duration>
   <Errors>1</Errors>
   <Warnings>0</Warnings>
   <Exceptions>1</Exceptions>
@@ -379,10 +379,10 @@ Syntax Error at line 22: Syntax Error - can&#x27;t understand &quot;do&quot; at 
   <ErrorMessage>Image Not Found -- doubleclick Error - No Image Found On Screen: &quot;(TEXT:&quot;Shopping&quot;)&quot;  Restricted Search Rectangle ((383,181),(980,666))
 </ErrorMessage>
  </run>
-< <run>
+ <run>
   <RunDate>2016-06-03 16:35:20.020 +0100</RunDate>
   <Status>Failure</Status>
-  <Duration>40.862000</Duration>
+  <Duration>40.000000</Duration>
   <Errors>1</Errors>
   <Warnings>0</Warnings>
   <Exceptions>1</Exceptions>
@@ -392,14 +392,14 @@ Syntax Error at line 22: Syntax Error - can&#x27;t understand &quot;do&quot; at 
   <ErrorMessage>Image Not Found -- doubleclick Error - No Image Found On Screen: &quot;(TEXT:&quot;Shopping&quot;)&quot;  Restricted Search Rectangle ((383,181),(980,666))
 </ErrorMessage>
  </run>
-< <run>
+ <run>
   <RunDate>2016-06-03 16:36:18.018 +0100</RunDate>
   <Status>Running</Status>
   <Duration>0.000000</Duration>
-  <Errors></Errors>
-  <Warnings></Warnings>
-  <Exceptions></Exceptions>
-  <Successes></Successes>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
   <LogFile>20160603_163618.018/LogFile.txt</LogFile>
   <ReturnValue></ReturnValue>
   <ErrorMessage></ErrorMessage>
@@ -407,7 +407,7 @@ Syntax Error at line 22: Syntax Error - can&#x27;t understand &quot;do&quot; at 
  <run>
   <RunDate>2016-06-03 16:36:43.043 +0100</RunDate>
   <Status>Failure</Status>
-  <Duration>38.215000</Duration>
+  <Duration>38.000000</Duration>
   <Errors>1</Errors>
   <Warnings>0</Warnings>
   <Exceptions>1</Exceptions>
@@ -416,10 +416,10 @@ Syntax Error at line 22: Syntax Error - can&#x27;t understand &quot;do&quot; at 
   <ReturnValue></ReturnValue>
   <ErrorMessage>Image Not Found -- waitfor Error - Unable To Find Any Image On Screen &quot;sub&quot; within 8.00 seconds</ErrorMessage>
  </run>
-< <run>
+ <run>
   <RunDate>2016-06-03 16:37:39.039 +0100</RunDate>
   <Status>Failure</Status>
-  <Duration>36.518000</Duration>
+  <Duration>36.000000</Duration>
   <Errors>1</Errors>
   <Warnings>0</Warnings>
   <Exceptions>1</Exceptions>
@@ -429,10 +429,10 @@ Syntax Error at line 22: Syntax Error - can&#x27;t understand &quot;do&quot; at 
   <ErrorMessage>Image Not Found -- doubleclick Error - No Image Found On Screen: &quot;(TEXT:&quot;Shopping&quot;)&quot;  Restricted Search Rectangle ((383,181),(980,666))
 </ErrorMessage>
  </run>
-< <run>
+ <run>
   <RunDate>2016-06-03 16:38:24.024 +0100</RunDate>
   <Status>Failure</Status>
-  <Duration>36.697000</Duration>
+  <Duration>36.000000</Duration>
   <Errors>1</Errors>
   <Warnings>0</Warnings>
   <Exceptions>1</Exceptions>
@@ -442,10 +442,10 @@ Syntax Error at line 22: Syntax Error - can&#x27;t understand &quot;do&quot; at 
   <ErrorMessage>Image Not Found -- doubleclick Error - No Image Found On Screen: &quot;(TEXT:&quot;Shopping&quot;)&quot;  Restricted Search Rectangle ((383,181),(980,666))
 </ErrorMessage>
  </run>
-< <run>
+ <run>
   <RunDate>2016-06-03 16:41:46.046 +0100</RunDate>
   <Status>Failure</Status>
-  <Duration>53.247000</Duration>
+  <Duration>53.000000</Duration>
   <Errors>1</Errors>
   <Warnings>0</Warnings>
   <Exceptions>1</Exceptions>
@@ -454,10 +454,10 @@ Syntax Error at line 22: Syntax Error - can&#x27;t understand &quot;do&quot; at 
   <ReturnValue></ReturnValue>
   <ErrorMessage>Image Not Found -- waitfor Error - Unable To Find Any Image On Screen &quot;(TEXT:&quot;Milk&quot;)&quot; within 8.00 seconds</ErrorMessage>
  </run>
-< <run>
+ <run>
   <RunDate>2016-06-03 16:45:08.008 +0100</RunDate>
   <Status>Failure</Status>
-  <Duration>40.590000</Duration>
+  <Duration>40.000000</Duration>
   <Errors>1</Errors>
   <Warnings>0</Warnings>
   <Exceptions>1</Exceptions>
@@ -466,10 +466,10 @@ Syntax Error at line 22: Syntax Error - can&#x27;t understand &quot;do&quot; at 
   <ReturnValue></ReturnValue>
   <ErrorMessage>Image Not Found -- click Error - No Image Found On Screen: &quot;closeView&quot;</ErrorMessage>
  </run>
-< <run>
+ <run>
   <RunDate>2016-06-03 16:45:59.059 +0100</RunDate>
   <Status>Failure</Status>
-  <Duration>32.704000</Duration>
+  <Duration>32.000000</Duration>
   <Errors>1</Errors>
   <Warnings>0</Warnings>
   <Exceptions>1</Exceptions>
@@ -478,14 +478,14 @@ Syntax Error at line 22: Syntax Error - can&#x27;t understand &quot;do&quot; at 
   <ReturnValue></ReturnValue>
   <ErrorMessage>Image Not Found -- click Error - No Image Found On Screen: &quot;closeView&quot;</ErrorMessage>
  </run>
-< <run>
+ <run>
   <RunDate>2016-06-03 16:47:07.007 +0100</RunDate>
   <Status>Running</Status>
   <Duration>0.000000</Duration>
-  <Errors></Errors>
-  <Warnings></Warnings>
-  <Exceptions></Exceptions>
-  <Successes></Successes>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
   <LogFile>20160603_164707.007/LogFile.txt</LogFile>
   <ReturnValue></ReturnValue>
   <ErrorMessage></ErrorMessage>
@@ -493,7 +493,7 @@ Syntax Error at line 22: Syntax Error - can&#x27;t understand &quot;do&quot; at 
  <run>
   <RunDate>2016-06-03 16:47:37.037 +0100</RunDate>
   <Status>Failure</Status>
-  <Duration>63.539000</Duration>
+  <Duration>63.000000</Duration>
   <Errors>1</Errors>
   <Warnings>0</Warnings>
   <Exceptions>1</Exceptions>
@@ -502,10 +502,10 @@ Syntax Error at line 22: Syntax Error - can&#x27;t understand &quot;do&quot; at 
   <ReturnValue></ReturnValue>
   <ErrorMessage>Image Not Found -- waitfor Error - Image Property List did not contain &quot;ImageName&quot; property</ErrorMessage>
  </run>
-< <run>
+ <run>
   <RunDate>2016-06-03 16:49:18.018 +0100</RunDate>
   <Status>Failure</Status>
-  <Duration>41.089000</Duration>
+  <Duration>41.000000</Duration>
   <Errors>1</Errors>
   <Warnings>0</Warnings>
   <Exceptions>0</Exceptions>
@@ -514,10 +514,10 @@ Syntax Error at line 22: Syntax Error - can&#x27;t understand &quot;do&quot; at 
   <ReturnValue></ReturnValue>
   <ErrorMessage>Image Not Found -- doubleclick Error - Unable To Find Image: BottomRight</ErrorMessage>
  </run>
-< <run>
+ <run>
   <RunDate>2016-06-03 16:51:04.004 +0100</RunDate>
   <Status>Failure</Status>
-  <Duration>46.814000</Duration>
+  <Duration>46.000000</Duration>
   <Errors>1</Errors>
   <Warnings>0</Warnings>
   <Exceptions>1</Exceptions>
@@ -526,10 +526,10 @@ Syntax Error at line 22: Syntax Error - can&#x27;t understand &quot;do&quot; at 
   <ReturnValue></ReturnValue>
   <ErrorMessage>Image Not Found -- waitfor Error - Image Property List did not contain &quot;ImageName&quot; property</ErrorMessage>
  </run>
-< <run>
+ <run>
   <RunDate>2016-06-03 16:54:06.006 +0100</RunDate>
   <Status>Failure</Status>
-  <Duration>0.029000</Duration>
+  <Duration>0.000000</Duration>
   <Errors>1</Errors>
   <Warnings>0</Warnings>
   <Exceptions>0</Exceptions>
@@ -539,10 +539,10 @@ Syntax Error at line 22: Syntax Error - can&#x27;t understand &quot;do&quot; at 
   <ErrorMessage>SenseTalk Compiler Exception -- in csv:
 Syntax Error at line 37: Syntax Error - can&#x27;t understand &quot;repeat&quot; at or near character 864</ErrorMessage>
  </run>
-< <run>
+ <run>
   <RunDate>2016-06-03 16:54:11.011 +0100</RunDate>
   <Status>Failure</Status>
-  <Duration>0.026000</Duration>
+  <Duration>0.000000</Duration>
   <Errors>1</Errors>
   <Warnings>0</Warnings>
   <Exceptions>0</Exceptions>
@@ -552,10 +552,10 @@ Syntax Error at line 37: Syntax Error - can&#x27;t understand &quot;repeat&quot;
   <ErrorMessage>SenseTalk Compiler Exception -- in csv:
 Syntax Error at line 37: Syntax Error - can&#x27;t understand &quot;repeat&quot; at or near character 864</ErrorMessage>
  </run>
-< <run>
+ <run>
   <RunDate>2016-06-03 16:54:19.019 +0100</RunDate>
   <Status>Failure</Status>
-  <Duration>0.024000</Duration>
+  <Duration>0.000000</Duration>
   <Errors>1</Errors>
   <Warnings>0</Warnings>
   <Exceptions>0</Exceptions>
@@ -565,10 +565,10 @@ Syntax Error at line 37: Syntax Error - can&#x27;t understand &quot;repeat&quot;
   <ErrorMessage>SenseTalk Compiler Exception -- in csv:
 Syntax Error at line 37: Syntax Error - can&#x27;t understand &quot;repeat&quot; at or near character 864</ErrorMessage>
  </run>
-< <run>
+ <run>
   <RunDate>2016-06-03 16:54:31.031 +0100</RunDate>
   <Status>Failure</Status>
-  <Duration>0.031000</Duration>
+  <Duration>0.000000</Duration>
   <Errors>1</Errors>
   <Warnings>0</Warnings>
   <Exceptions>0</Exceptions>
@@ -578,10 +578,10 @@ Syntax Error at line 37: Syntax Error - can&#x27;t understand &quot;repeat&quot;
   <ErrorMessage>SenseTalk Compiler Exception -- in csv:
 Syntax Error at line 37: Syntax Error - can&#x27;t understand &quot;repeat&quot; at or near character 864</ErrorMessage>
  </run>
-< <run>
+ <run>
   <RunDate>2016-06-03 16:54:46.046 +0100</RunDate>
   <Status>Failure</Status>
-  <Duration>0.031000</Duration>
+  <Duration>0.000000</Duration>
   <Errors>1</Errors>
   <Warnings>0</Warnings>
   <Exceptions>0</Exceptions>
@@ -591,10 +591,10 @@ Syntax Error at line 37: Syntax Error - can&#x27;t understand &quot;repeat&quot;
   <ErrorMessage>SenseTalk Compiler Exception -- in csv:
 Syntax Error at line 38: Syntax Error - can&#x27;t understand &quot;repeat&quot; at or near character 874</ErrorMessage>
  </run>
-< <run>
+ <run>
   <RunDate>2016-06-03 16:55:11.011 +0100</RunDate>
   <Status>Failure</Status>
-  <Duration>54.625000</Duration>
+  <Duration>54.000000</Duration>
   <Errors>1</Errors>
   <Warnings>0</Warnings>
   <Exceptions>1</Exceptions>
@@ -603,10 +603,10 @@ Syntax Error at line 38: Syntax Error - can&#x27;t understand &quot;repeat&quot;
   <ReturnValue></ReturnValue>
   <ErrorMessage>Image Not Found -- waitfor Error - Unable To Find Any Image On Screen &quot;sub&quot; within 8.00 seconds</ErrorMessage>
  </run>
-< <run>
+ <run>
   <RunDate>2016-06-03 16:56:34.034 +0100</RunDate>
   <Status>Failure</Status>
-  <Duration>99.105000</Duration>
+  <Duration>99.000000</Duration>
   <Errors>1</Errors>
   <Warnings>0</Warnings>
   <Exceptions>1</Exceptions>
@@ -615,10 +615,10 @@ Syntax Error at line 38: Syntax Error - can&#x27;t understand &quot;repeat&quot;
   <ReturnValue></ReturnValue>
   <ErrorMessage>Image Not Found -- waitfor Error - Unable To Find Any Image On Screen &quot;(TEXT:&quot;Hoover&quot;)&quot; within 8.00 seconds</ErrorMessage>
  </run>
-< <run>
+ <run>
   <RunDate>2016-06-03 16:59:27.027 +0100</RunDate>
   <Status>Failure</Status>
-  <Duration>96.019000</Duration>
+  <Duration>96.000000</Duration>
   <Errors>1</Errors>
   <Warnings>0</Warnings>
   <Exceptions>1</Exceptions>
@@ -627,10 +627,10 @@ Syntax Error at line 38: Syntax Error - can&#x27;t understand &quot;repeat&quot;
   <ReturnValue></ReturnValue>
   <ErrorMessage>Image Not Found -- waitfor Error - Unable To Find Any Image On Screen &quot;(TEXT:&quot;Hoover&quot;)&quot; within 8.00 seconds</ErrorMessage>
  </run>
-< <run>
+ <run>
   <RunDate>2016-06-03 17:01:18.018 +0100</RunDate>
   <Status>Failure</Status>
-  <Duration>90.207000</Duration>
+  <Duration>90.000000</Duration>
   <Errors>1</Errors>
   <Warnings>0</Warnings>
   <Exceptions>1</Exceptions>
@@ -639,10 +639,10 @@ Syntax Error at line 38: Syntax Error - can&#x27;t understand &quot;repeat&quot;
   <ReturnValue></ReturnValue>
   <ErrorMessage>Image Not Found -- waitfor Error - Unable To Find Any Image On Screen &quot;(TEXT:&quot;Hoover&quot;)&quot; within 8.00 seconds</ErrorMessage>
  </run>
-< <run>
+ <run>
   <RunDate>2016-06-03 17:03:53.053 +0100</RunDate>
   <Status>Failure</Status>
-  <Duration>89.119000</Duration>
+  <Duration>89.000000</Duration>
   <Errors>1</Errors>
   <Warnings>0</Warnings>
   <Exceptions>1</Exceptions>
@@ -651,10 +651,10 @@ Syntax Error at line 38: Syntax Error - can&#x27;t understand &quot;repeat&quot;
   <ReturnValue></ReturnValue>
   <ErrorMessage>Image Not Found -- waitfor Error - Unable To Find Any Image On Screen &quot;(TEXT:&quot;Hoover&quot;)&quot; within 8.00 seconds</ErrorMessage>
  </run>
-< <run>
+ <run>
   <RunDate>2016-06-03 17:06:23.023 +0100</RunDate>
   <Status>Failure</Status>
-  <Duration>92.077000</Duration>
+  <Duration>92.000000</Duration>
   <Errors>1</Errors>
   <Warnings>0</Warnings>
   <Exceptions>1</Exceptions>
@@ -663,14 +663,14 @@ Syntax Error at line 38: Syntax Error - can&#x27;t understand &quot;repeat&quot;
   <ReturnValue></ReturnValue>
   <ErrorMessage>Image Not Found -- waitfor Error - Unable To Find Any Image On Screen &quot;(TEXT:&quot;Hoover&quot;)&quot; within 8.00 seconds</ErrorMessage>
  </run>
-< <run>
+ <run>
   <RunDate>2016-06-03 17:09:55.055 +0100</RunDate>
   <Status>Running</Status>
   <Duration>0.000000</Duration>
-  <Errors></Errors>
-  <Warnings></Warnings>
-  <Exceptions></Exceptions>
-  <Successes></Successes>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
   <LogFile>20160603_170955.055/LogFile.txt</LogFile>
   <ReturnValue></ReturnValue>
   <ErrorMessage></ErrorMessage>
@@ -679,10 +679,10 @@ Syntax Error at line 38: Syntax Error - can&#x27;t understand &quot;repeat&quot;
   <RunDate>2016-06-03 17:12:01.001 +0100</RunDate>
   <Status>Running</Status>
   <Duration>0.000000</Duration>
-  <Errors></Errors>
-  <Warnings></Warnings>
-  <Exceptions></Exceptions>
-  <Successes></Successes>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
   <LogFile>20160603_171201.001/LogFile.txt</LogFile>
   <ReturnValue></ReturnValue>
   <ErrorMessage></ErrorMessage>
@@ -690,7 +690,7 @@ Syntax Error at line 38: Syntax Error - can&#x27;t understand &quot;repeat&quot;
  <run>
   <RunDate>2016-06-03 17:15:12.012 +0100</RunDate>
   <Status>Failure</Status>
-  <Duration>179.793000</Duration>
+  <Duration>179.000000</Duration>
   <Errors>1</Errors>
   <Warnings>0</Warnings>
   <Exceptions>1</Exceptions>
@@ -699,14 +699,14 @@ Syntax Error at line 38: Syntax Error - can&#x27;t understand &quot;repeat&quot;
   <ReturnValue></ReturnValue>
   <ErrorMessage>Image Not Found -- waitfor Error - Unable To Find Any Image On Screen &quot;(TEXT:&quot;Hoover&quot;)&quot; within 8.00 seconds</ErrorMessage>
  </run>
-< <run>
+ <run>
   <RunDate>2016-06-03 17:20:06.006 +0100</RunDate>
   <Status>Running</Status>
   <Duration>0.000000</Duration>
-  <Errors></Errors>
-  <Warnings></Warnings>
-  <Exceptions></Exceptions>
-  <Successes></Successes>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
   <LogFile>20160603_172006.006/LogFile.txt</LogFile>
   <ReturnValue></ReturnValue>
   <ErrorMessage></ErrorMessage>
@@ -714,7 +714,7 @@ Syntax Error at line 38: Syntax Error - can&#x27;t understand &quot;repeat&quot;
  <run>
   <RunDate>2016-06-03 17:24:10.010 +0100</RunDate>
   <Status>Failure</Status>
-  <Duration>142.039000</Duration>
+  <Duration>142.000000</Duration>
   <Errors>1</Errors>
   <Warnings>0</Warnings>
   <Exceptions>1</Exceptions>
@@ -723,10 +723,10 @@ Syntax Error at line 38: Syntax Error - can&#x27;t understand &quot;repeat&quot;
   <ReturnValue></ReturnValue>
   <ErrorMessage>Image Not Found -- waitfor Error - Unable To Find Any Image On Screen &quot;(TEXT:&quot;Hoover&quot;)&quot; within 8.00 seconds</ErrorMessage>
  </run>
-< <run>
+ <run>
   <RunDate>2016-06-03 17:27:25.025 +0100</RunDate>
   <Status>Failure</Status>
-  <Duration>155.719000</Duration>
+  <Duration>155.000000</Duration>
   <Errors>1</Errors>
   <Warnings>0</Warnings>
   <Exceptions>1</Exceptions>
@@ -735,10 +735,10 @@ Syntax Error at line 38: Syntax Error - can&#x27;t understand &quot;repeat&quot;
   <ReturnValue></ReturnValue>
   <ErrorMessage>Image Not Found -- click Error - No Image Found On Screen: &quot;newtodo&quot;</ErrorMessage>
  </run>
-< <run>
+ <run>
   <RunDate>2016-06-03 17:32:29.029 +0100</RunDate>
   <Status>Failure</Status>
-  <Duration>77.591000</Duration>
+  <Duration>77.000000</Duration>
   <Errors>1</Errors>
   <Warnings>0</Warnings>
   <Exceptions>0</Exceptions>
@@ -747,10 +747,10 @@ Syntax Error at line 38: Syntax Error - can&#x27;t understand &quot;repeat&quot;
   <ReturnValue></ReturnValue>
   <ErrorMessage>Image Not Found -- waitfor Error - Unable To Find Image: BottomRight</ErrorMessage>
  </run>
-< <run>
+ <run>
   <RunDate>2016-06-03 17:34:11.011 +0100</RunDate>
   <Status>Failure</Status>
-  <Duration>168.707000</Duration>
+  <Duration>168.000000</Duration>
   <Errors>1</Errors>
   <Warnings>0</Warnings>
   <Exceptions>1</Exceptions>
@@ -759,10 +759,10 @@ Syntax Error at line 38: Syntax Error - can&#x27;t understand &quot;repeat&quot;
   <ReturnValue></ReturnValue>
   <ErrorMessage>Image Not Found -- click Error - No Image Found On Screen: &quot;Save&quot;</ErrorMessage>
  </run>
-< <run>
+ <run>
   <RunDate>2016-06-03 17:37:43.043 +0100</RunDate>
   <Status>Failure</Status>
-  <Duration>69.551000</Duration>
+  <Duration>69.000000</Duration>
   <Errors>1</Errors>
   <Warnings>0</Warnings>
   <Exceptions>0</Exceptions>
@@ -771,14 +771,14 @@ Syntax Error at line 38: Syntax Error - can&#x27;t understand &quot;repeat&quot;
   <ReturnValue></ReturnValue>
   <ErrorMessage>Image Not Found -- waitfor Error - Unable To Find Image: BottomRight</ErrorMessage>
  </run>
-< <run>
+ <run>
   <RunDate>2016-06-03 17:39:00.000 +0100</RunDate>
   <Status>Running</Status>
   <Duration>0.000000</Duration>
-  <Errors></Errors>
-  <Warnings></Warnings>
-  <Exceptions></Exceptions>
-  <Successes></Successes>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
   <LogFile>20160603_173900.000/LogFile.txt</LogFile>
   <ReturnValue></ReturnValue>
   <ErrorMessage></ErrorMessage>
@@ -787,10 +787,10 @@ Syntax Error at line 38: Syntax Error - can&#x27;t understand &quot;repeat&quot;
   <RunDate>2016-06-03 17:43:01.001 +0100</RunDate>
   <Status>Running</Status>
   <Duration>0.000000</Duration>
-  <Errors></Errors>
-  <Warnings></Warnings>
-  <Exceptions></Exceptions>
-  <Successes></Successes>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
   <LogFile>20160603_174301.001/LogFile.txt</LogFile>
   <ReturnValue></ReturnValue>
   <ErrorMessage></ErrorMessage>
@@ -798,7 +798,7 @@ Syntax Error at line 38: Syntax Error - can&#x27;t understand &quot;repeat&quot;
  <run>
   <RunDate>2016-06-03 17:49:44.044 +0100</RunDate>
   <Status>Failure</Status>
-  <Duration>57.809000</Duration>
+  <Duration>57.000000</Duration>
   <Errors>1</Errors>
   <Warnings>0</Warnings>
   <Exceptions>1</Exceptions>
@@ -807,10 +807,10 @@ Syntax Error at line 38: Syntax Error - can&#x27;t understand &quot;repeat&quot;
   <ReturnValue></ReturnValue>
   <ErrorMessage>Image Not Found -- waitfor Error - Unable To Find Any Image On Screen &quot;(TEXT:&quot;Milk&quot;)&quot; within 8.00 seconds</ErrorMessage>
  </run>
-< <run>
+ <run>
   <RunDate>2016-06-03 17:50:47.047 +0100</RunDate>
   <Status>Failure</Status>
-  <Duration>149.539000</Duration>
+  <Duration>149.000000</Duration>
   <Errors>1</Errors>
   <Warnings>0</Warnings>
   <Exceptions>1</Exceptions>
@@ -819,10 +819,10 @@ Syntax Error at line 38: Syntax Error - can&#x27;t understand &quot;repeat&quot;
   <ReturnValue></ReturnValue>
   <ErrorMessage>Image Not Found -- click Error - No Image Found On Screen: &quot;Save&quot;</ErrorMessage>
  </run>
-< <run>
+ <run>
   <RunDate>2016-06-03 18:00:34.034 +0100</RunDate>
   <Status>Failure</Status>
-  <Duration>333.006000</Duration>
+  <Duration>333.000000</Duration>
   <Errors>1</Errors>
   <Warnings>0</Warnings>
   <Exceptions>1</Exceptions>
@@ -832,14 +832,14 @@ Syntax Error at line 38: Syntax Error - can&#x27;t understand &quot;repeat&quot;
   <ErrorMessage>Image Not Found -- waitfor Error - Unable To Find Any Image On Screen &quot;(TEXT:&quot;Shopping&quot;)&quot; within 5.00 seconds  Restricted Search Rectangle ((383,181),(536,700))
 </ErrorMessage>
  </run>
-< <run>
+ <run>
   <RunDate>2016-06-03 18:07:58.058 +0100</RunDate>
   <Status>Running</Status>
   <Duration>0.000000</Duration>
-  <Errors></Errors>
-  <Warnings></Warnings>
-  <Exceptions></Exceptions>
-  <Successes></Successes>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
   <LogFile>20160603_180758.058/LogFile.txt</LogFile>
   <ReturnValue></ReturnValue>
   <ErrorMessage></ErrorMessage>
@@ -847,7 +847,7 @@ Syntax Error at line 38: Syntax Error - can&#x27;t understand &quot;repeat&quot;
  <run>
   <RunDate>2016-06-03 18:10:18.018 +0100</RunDate>
   <Status>Failure</Status>
-  <Duration>145.348000</Duration>
+  <Duration>145.000000</Duration>
   <Errors>1</Errors>
   <Warnings>0</Warnings>
   <Exceptions>1</Exceptions>
@@ -855,5 +855,113 @@ Syntax Error at line 38: Syntax Error - can&#x27;t understand &quot;repeat&quot;
   <LogFile>20160603_181018.018/LogFile.txt</LogFile>
   <ReturnValue></ReturnValue>
   <ErrorMessage>Image Not Found -- waitfor Error - Unable To Find Any Image On Screen &quot;(TEXT:&quot;Flour&quot;)&quot; within 8.00 seconds</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-06-06 23:36:47.047 +0100</RunDate>
+  <Status>Failure</Status>
+  <Duration>62.000000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20160606_233647.047/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Image Not Found -- waitfor Error - Unable To Find Any Image On Screen &quot;(TEXT:&quot;Eggs&quot;)&quot; within 8.00 seconds</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-06-06 23:38:06.006 +0100</RunDate>
+  <Status>Running</Status>
+  <Duration>0.000000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20160606_233806.006/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-06-06 23:41:49.049 +0100</RunDate>
+  <Status>Failure</Status>
+  <Duration>25.000000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20160606_234149.049/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Image Not Found -- click Error - No Image Found On Screen: &quot;CreateL&quot;</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-06-06 23:43:25.025 +0100</RunDate>
+  <Status>Running</Status>
+  <Duration>0.000000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20160606_234325.025/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-06-06 23:44:50.050 +0100</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.000000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20160606_234450.050/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>No Remote Connection -- imagefound Error - Remote Connection Unavailable</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-06-07 00:04:25.025 +0100</RunDate>
+  <Status>Running</Status>
+  <Duration>0.000000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20160607_000425.025/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-06-07 00:07:29.029 +0100</RunDate>
+  <Status>Failure</Status>
+  <Duration>87.000000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20160607_000729.029/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Image Not Found -- waitfor Error - Unable To Find Any Image On Screen &quot;(TEXT:&quot;Hoover&quot;)&quot; within 8.00 seconds</ErrorMessage>
+ </run>
+< <run>
+  <RunDate>2016-06-07 21:07:07.007 +0100</RunDate>
+  <Status>Failure</Status>
+  <Duration>40.983000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20160607_210707.007/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Image Not Found -- click Error - No Image Found On Screen: &quot;CreateL&quot;</ErrorMessage>
+ </run>
+< <run>
+  <RunDate>2016-06-07 21:15:00.000 +0100</RunDate>
+  <Status>Failure</Status>
+  <Duration>28.170000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20160607_211500.000/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Image Not Found -- click Error - No Image Found On Screen: &quot;CreateL&quot;</ErrorMessage>
  </run>
 </runHistory>

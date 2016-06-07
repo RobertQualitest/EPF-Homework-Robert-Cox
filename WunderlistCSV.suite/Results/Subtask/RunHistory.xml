@@ -3,7 +3,7 @@
  <run>
   <RunDate>2016-06-03 16:44:55.055 +0100</RunDate>
   <Status>Failure</Status>
-  <Duration>4.421000</Duration>
+  <Duration>4.000000</Duration>
   <Errors>1</Errors>
   <Warnings>0</Warnings>
   <Exceptions>1</Exceptions>
@@ -12,10 +12,10 @@
   <ReturnValue></ReturnValue>
   <ErrorMessage>File Not Found -- click Error - Could Not Open Image: (empty)</ErrorMessage>
  </run>
-< <run>
+ <run>
   <RunDate>2016-06-03 16:47:28.028 +0100</RunDate>
   <Status>Success</Status>
-  <Duration>4.821000</Duration>
+  <Duration>4.000000</Duration>
   <Errors>0</Errors>
   <Warnings>0</Warnings>
   <Exceptions>0</Exceptions>
@@ -24,10 +24,10 @@
   <ReturnValue></ReturnValue>
   <ErrorMessage></ErrorMessage>
  </run>
-< <run>
+ <run>
   <RunDate>2016-06-03 16:59:05.005 +0100</RunDate>
   <Status>Success</Status>
-  <Duration>3.142000</Duration>
+  <Duration>3.000000</Duration>
   <Errors>0</Errors>
   <Warnings>0</Warnings>
   <Exceptions>0</Exceptions>
@@ -35,5 +35,29 @@
   <LogFile>20160603_165905.005/LogFile.txt</LogFile>
   <ReturnValue></ReturnValue>
   <ErrorMessage></ErrorMessage>
+ </run>
+< <run>
+  <RunDate>2016-06-07 21:12:14.014 +0100</RunDate>
+  <Status>Failure</Status>
+  <Duration>23.239000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20160607_211214.014/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Image Not Found -- click Error - No Image Found On Screen: &quot;sub2/sub&quot;</ErrorMessage>
+ </run>
+< <run>
+  <RunDate>2016-06-07 21:14:41.041 +0100</RunDate>
+  <Status>Failure</Status>
+  <Duration>18.964000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20160607_211441.041/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Image Not Found -- click Error - No Image Found On Screen: &quot;sub2/sub&quot;</ErrorMessage>
  </run>
 </runHistory>

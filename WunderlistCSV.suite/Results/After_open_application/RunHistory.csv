@@ -1,0 +1,4 @@
+﻿Date Run,Status,Time,# of Errors,# of Warnings,# of Exceptions,Log File,Return Value,Error Message,# of Successes
+2016-06-06 23:59:43.043 +0100,"Failure",0:00:24,1,0,1,"20160606_235943.043/LogFile.txt","","Image Not Found -- doubleclick Error - No Image Found On Screen: ""Icon/Wunderlist CLose""",0
+2016-06-07 00:02:52.052 +0100,"Failure",0:00:09,1,0,1,"20160607_000252.052/LogFile.txt","","Image Not Found -- doubleclick Error - No Image Found On Screen: ""Icon/Wunderlist CLose""",0
+2016-06-07 00:08:57.057 +0100,"Failure",0:00:28,1,0,1,"20160607_000857.057/LogFile.txt","","Image Not Found -- click Error - No Image Found On Screen: ""Icon/Wunderlist CLose""",0

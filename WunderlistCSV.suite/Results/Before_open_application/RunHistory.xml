@@ -1,0 +1,137 @@
+﻿<?xml version="1.0"?>
+<runHistory script="Before_open_application">
+ <run>
+  <RunDate>2016-06-06 23:55:48.048 +0100</RunDate>
+  <Status>Failure</Status>
+  <Duration>23.000000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20160606_235548.048/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Image Not Found -- doubleclick Error - No Image Found On Screen: &quot;WunderlistIcon&quot;</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-06-06 23:56:41.041 +0100</RunDate>
+  <Status>Failure</Status>
+  <Duration>23.000000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20160606_235641.041/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Image Not Found -- doubleclick Error - No Image Found On Screen: &quot;WunderlistIcon&quot;</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-06-06 23:57:48.048 +0100</RunDate>
+  <Status>Running</Status>
+  <Duration>0.000000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20160606_235748.048/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-06-06 23:58:07.007 +0100</RunDate>
+  <Status>Failure</Status>
+  <Duration>22.000000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20160606_235807.007/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Image Not Found -- doubleclick Error - No Image Found On Screen: &quot;Icon/WunderlistIcon&quot;</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-06-06 23:58:41.041 +0100</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.000000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20160606_235841.041/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>STUnknownMessage -- ERROR: No Such Function: &#x27;wunderlisticon&#x27;</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-06-06 23:58:54.054 +0100</RunDate>
+  <Status>Failure</Status>
+  <Duration>23.000000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20160606_235854.054/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Image Not Found -- doubleclick Error - No Image Found On Screen: &quot;Icon/WunderlistIcon&quot;</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-06-07 00:04:10.010 +0100</RunDate>
+  <Status>Running</Status>
+  <Duration>0.000000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20160607_000410.010/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-06-07 00:04:23.023 +0100</RunDate>
+  <Status>Failure</Status>
+  <Duration>1.000000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20160607_000423.023/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Error Running Script Command -- waitfor Error - Too Few Parameters, please use waitfor time, image1[, imageX]</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-06-07 00:07:14.014 +0100</RunDate>
+  <Status>Running</Status>
+  <Duration>0.000000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20160607_000714.014/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-06-07 00:07:26.026 +0100</RunDate>
+  <Status>Failure</Status>
+  <Duration>1.000000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20160607_000726.026/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Error Running Script Command -- waitfor Error - Too Few Parameters, please use waitfor time, image1[, imageX]</ErrorMessage>
+ </run>
+< <run>
+  <RunDate>2016-06-07 21:14:37.037 +0100</RunDate>
+  <Status>Failure</Status>
+  <Duration>3.033000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20160607_211437.037/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Connection Failed -- Unable to connect to Server:i-b5223a19 on port:0
+Error resolving host i-b5223a19
+</ErrorMessage>
+ </run>
+</runHistory>

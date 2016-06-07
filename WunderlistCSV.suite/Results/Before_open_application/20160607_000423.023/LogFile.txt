@@ -1,0 +1,7 @@
+﻿2016-06-07 00:04:23.023 +0100	START		Running Before_open_application.script
+2016-06-07 00:04:23.023 +0100	connect		i-d4322a78:(null)	1	on_before_open_application	Before_open_application.script
+2016-06-07 00:04:23.023 +0100	doubleclick	Icon/WunderlistIcon	at (40, 351)	3	on_before_open_application	Before_open_application.script
+2016-06-07 00:04:24.024 +0100	click	Icon/WunderlistMaximize	at (926, 55)	4	on_before_open_application	Before_open_application.script
+2016-06-07 00:04:24.024 +0100	Exception		Too Few Parameters, please use waitfor time, image1[, imageX]	5	on_before_open_application	Before_open_application.script
+2016-06-07 00:04:25.025 +0100	EndTestCase		(Duration:"1.844", Errors:"1", Exceptions:"1", StartTime:"2016-06-07 00:04:23 +0100", Successes:"0", TestCase:"Before_open_application.script", Warnings:"0")
+2016-06-07 00:04:25.025 +0100	FAILURE	Screen_Error.png	Error Running Script Command waitfor Error - Too Few Parameters, please use waitfor time, image1[, imageX] -- Execution Time 0:00:02 Before_open_application.script

@@ -1,0 +1,6 @@
+﻿2016-06-06 23:41:49.049 +0100	START		Running csv.script
+2016-06-06 23:41:52.052 +0100	imagefound	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:"", ImageRectangle:"", Language:"English", text:"Things to do", TextPlatform:"Generic OCR")	Unable to Find Image (TEXT:"Things to do") within 2.00 seconds	17	on_csv	csv.script
+2016-06-06 23:41:52.052 +0100	Log		List is being made:Things to do	3	on_create	List.script
+2016-06-06 23:42:14.014 +0100	Exception	CreateL	No Image Found On Screen: "CreateL"	5	on_create	List.script
+2016-06-06 23:42:15.015 +0100	EndTestCase		(Duration:"25.901", Errors:"1", Exceptions:"1", StartTime:"2016-06-06 23:41:49 +0100", Successes:"0", TestCase:"csv.script", Warnings:"0")
+2016-06-06 23:42:15.015 +0100	FAILURE	Screen_Error.png	Image Not Found click Error - No Image Found On Screen: "CreateL" -- Execution Time 0:00:26 csv.script

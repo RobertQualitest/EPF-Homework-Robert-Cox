@@ -1,0 +1,5 @@
+﻿2016-06-07 00:08:57.057 +0100	START		Running After_open_application.script
+2016-06-07 00:08:57.057 +0100	doubleclick	Icon/Wunderlist CLose	at (997, 9)	1	on_after_open_application	After_open_application.script
+2016-06-07 00:09:24.024 +0100	Exception	Icon/Wunderlist CLose	No Image Found On Screen: "Icon/Wunderlist CLose"	2	on_after_open_application	After_open_application.script
+2016-06-07 00:09:25.025 +0100	EndTestCase		(Duration:"27.97", Errors:"1", Exceptions:"1", StartTime:"2016-06-07 00:08:57 +0100", Successes:"0", TestCase:"After_open_application.script", Warnings:"0")
+2016-06-07 00:09:25.025 +0100	FAILURE	Screen_Error.png	Image Not Found click Error - No Image Found On Screen: "Icon/Wunderlist CLose" -- Execution Time 0:00:28 After_open_application.script

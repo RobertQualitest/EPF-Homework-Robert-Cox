@@ -1,0 +1,5 @@
+﻿connect "i-b5223a19"
+
+DoubleClick "Icon/WunderlistIcon"
+Click "Icon/WunderlistMaximize"
+WaitFor 8.0
